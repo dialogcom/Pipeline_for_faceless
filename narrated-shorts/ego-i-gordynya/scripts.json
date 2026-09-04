@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "slug": "vaza-korona-bez-kornya",
+    "hook": "Десятого августа тысяча шестьсот двадцать восьмого года самый нарядный корабль Европы утонул на глазах у города. Он прошёл тысячу триста метров.",
+    "vo": "«Ваза» несла около пятисот резных фигур. Золочёные львы в коронах поднимались по корме до самых мачт. А внизу, в трюме, балласта не хватало, чтобы всё это удержать. Вся тяжесть красоты оказалась наверху, и держать её было нечем. Корабль получил крону и не получил корня. Шри Чинмой ставит рядом два эго - одно радуется чужой слабости, другое считает людей ниже себя. И живут оба ровно там же, где золочёные львы, выше ватерлинии.",
+    "ending": "Но утонувший корабль здесь не самое странное. Знаете, что странно по-настоящему? Незадолго до выхода «Вазу» проверили, и проверка провалилась на глазах у всего причала.",
+    "images": [
+      [
+        "Tall vertical frame: a towering 17th-century Swedish warship moored at a Stockholm quay, its enormous gilded stern castle rising through the upper two thirds of the frame, a small crowd in wide collars and tall hats gathered below at the waterline, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Tall vertical frame: close view of the carved and gilded stern of a 17th-century warship, rows of golden lions, royal faces and crowns stacked one above another high over the dark water, heavy ornament filling the frame top to bottom, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Tall vertical frame: the vast dark empty hold deep inside a wooden 17th-century ship, massive oak ribs curving up on both sides, only a thin scatter of grey ballast stones on the floor, a single lantern, cavernous emptiness above, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Tall vertical frame split by the waterline: above, the blazing gilded stern of a great warship heavy with golden carvings; below, the bare dark underwater hull tapering into deep green murk, nothing holding it, vertical 9:16 composition",
+        0.26
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic Dutch Golden Age marine oil painting circa 1630, oil on oak panel, dark varnished glazes, warm ochre and umber palette, fine craquelure, soft chiaroscuro, muted overcast northern sky, full-bleed image filling the whole frame",
+    "image_negative": "photograph, photorealistic, modern digital render, CGI, 3d render, HDR, vivid saturated colors, neon, clean sharp digital detail, white border, picture frame, mat, card mount, letterbox, text, watermark, signature"
+  },
+  {
+    "id": 2,
+    "slug": "tridtsat-chelovek-na-palube",
+    "hook": "В тысяча шестьсот двадцать восьмом остойчивость корабля проверяли бегом. Тридцать человек разом перебегали с борта на борт.",
+    "vo": "Смысл простой: люди переносят свой вес и раскачивают корпус. Надёжный корабль качнётся и сам вернётся прямо, а «Ваза» с каждым пробегом кренилась сильнее. Выпрямляться она не спешила. Адмирал прекратил проверку на третьем пробеге, чтобы корабль не лёг на бок прямо у причала. Значит, знали. Но все размеры утвердил лично король, и кто скажет королю, что его корабль не держится на воде? Шри Чинмой ставит рядом чувство превосходства и чувство униженности. Одно не даёт услышать, другое не даёт сказать. На том причале работали оба.",
+    "ending": "Через несколько дней «Ваза» вышла в море и утонула за двадцать минут. Тридцать человек не выплыли, а когда начался суд, виноватого назвали очень быстро. Только спросить его было уже нельзя. Почему?",
+    "images": [
+      [
+        "Tall vertical frame: thirty sailors in 1620s clothing running together across the upper deck of a great warship at the quay, the vessel visibly heeling to one side, an admiral in a dark cloak watching from the dock below, vertical 9:16 composition",
+        0.3
+      ],
+      [
+        "Tall vertical frame: an admiral in a black cloak on a stone quay raising one hand to halt, the great warship behind him leaning steeply toward the dock, sailors clutching the rail on the tilted deck, ropes strained, vertical 9:16 composition",
+        0.22
+      ],
+      [
+        "Tall vertical frame: a 17th-century king in ornate dress standing over a large ship draught unrolled on a table, courtiers behind him with lowered eyes and closed mouths, one shipwright at the edge of the frame holding his hat, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Tall vertical frame: a great ornate warship heeled far over in a gust, dark water pouring into its open lower gunports, sails still set above, tiny figures in the water below, grey squall sky filling the top of the frame, vertical 9:16 composition",
+        0.22
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic Dutch Golden Age marine oil painting circa 1630, oil on oak panel, dark varnished glazes, warm ochre and umber palette, fine craquelure, soft chiaroscuro, muted overcast northern sky, full-bleed image filling the whole frame",
+    "image_negative": "photograph, photorealistic, modern digital render, CGI, 3d render, HDR, vivid saturated colors, neon, clean sharp digital detail, white border, picture frame, mat, card mount, letterbox, text, watermark, signature"
+  },
+  {
+    "id": 3,
+    "slug": "pustoy-stul",
+    "hook": "Следствие по делу «Вазы» шло долго и виноватых не нашло, точнее нашло одного и очень удобного.",
+    "vo": "Вина легла на умершего корабельного мастера, который не достроил свой корабль. Мёртвый не спорит. А того, кто утвердил все размеры и всё вооружение, не вызвали вовсе. Это был король. Причину гибели знали и между собой называли, но приговор ушёл к покойнику. У эго ровно та же защита: оно всегда найдёт, кого назначить виноватым, и никогда не назовёт себя. Судья и подсудимый носят одно имя, и как тогда вынести приговор? Шри Чинмой смотрит на дерево - когда на ветвях появляются плоды, ветви идут вниз, а не вверх. Склониться дерево может только потому, что внизу у него корни.",
+    "ending": "«Ваза» была деревом наоборот: вся крона и ни одного корня. Значит, корень надо нарастить, вот только силой это не выходит ни у кого. Почему?",
+    "images": [
+      [
+        "Tall vertical frame: a dim wood-panelled 17th-century council chamber, grave men in white ruffs seated around a long table lit by one high window, one empty chair at the near end, deep shadow above and below, vertical 9:16 composition",
+        0.28
+      ],
+      [
+        "Tall vertical frame: an ornate empty gilded throne-like chair alone in a dark panelled hall, a rolled ship draught resting untouched on its seat, dust in a single shaft of light, no people, vertical 9:16 composition",
+        0.2
+      ],
+      [
+        "Tall vertical frame, extreme close cropped view filling the whole picture edge to edge: the heavy laden branches of an old fruit tree bowing steeply downward under ripe fruit, branches running out past every edge of the image, the gnarled trunk and thick surface roots gripping dark earth at the bottom, warm evening light through the leaves, no border of any kind, vertical 9:16 composition",
+        0.3
+      ],
+      [
+        "Tall vertical frame: a single heavy golden crown floating on dark still water, nothing beneath it but green depth, faint reflection, empty grey sky above, desolate and quiet, vertical 9:16 composition",
+        0.22
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic Dutch Golden Age marine oil painting circa 1630, oil on oak panel, dark varnished glazes, warm ochre and umber palette, fine craquelure, soft chiaroscuro, muted overcast northern sky, full-bleed image filling the whole frame",
+    "image_negative": "photograph, photorealistic, modern digital render, CGI, 3d render, HDR, vivid saturated colors, neon, clean sharp digital detail, white border, picture frame, mat, card mount, letterbox, text, watermark, signature, gilded frame, gold border, ornate frame edge, framed painting on a wall, canvas edge, museum wall, matting, inner border, vignette border"
+  },
+  {
+    "id": 4,
+    "slug": "gora-i-stupeni",
+    "hook": "Фердинанд Лессепс прорыл Суэцкий канал и стал героем Франции. В Панаме он положил двадцать две тысячи человек.",
+    "vo": "Лессепс решил резать напрямую на уровне моря, без единого шлюза. В Суэце получилось: там был песок. А поперёк Панамы стоял горный хребет, и Лессепс резал его восемь лет, пока компания не разорилась. Американцы гору вообще не тронули, а начали поднимать над ней корабли: три ступени вверх, двадцать шесть метров, три ступени вниз. И сколько насосов работает в этих шлюзах? Ни одного. Воду гонит сила тяжести, а корабль не тянет себя сам - он просто ждёт и всплывает. Шри Чинмой говорит, что эго невозможно заставить отречься силой. Загоняя сына в холодную воду, вы получите врага, а не пловца.",
+    "ending": "Лессепс ошибся только в одном - решил, что гору проходят насквозь. Её проходят ступенями и не собственной силой. Тогда зачем вообще усилие?",
+    "images": [
+      [
+        "Tall vertical frame: 1880s French excavation in Panama, men in muddy work clothes and steam shovels deep in a raw earth cutting, dense jungle walls rising on both sides, oppressive haze, vertical 9:16 composition",
+        0.125
+      ],
+      [
+        "Tall vertical frame: the Suez Canal in 1869, a dead-straight water channel running to the horizon through completely flat featureless desert sand, a single steamship on it, empty pale sky, vertical 9:16 composition",
+        0.118
+      ],
+      [
+        "Tall vertical frame: a massive landslide in the Culebra Cut, collapsed earth burying railway track and wrecked machinery, towering raw mountain walls above on both sides, tiny figures for scale, vertical 9:16 composition",
+        0.125
+      ],
+      [
+        "Tall vertical frame: the Gatun locks, vast stepped concrete chambers climbing away from the camera in three levels, a large steamship sitting in the lowest chamber, massive steel gates, vertical 9:16 composition",
+        0.213
+      ],
+      [
+        "Tall vertical frame: a ship floating high in a filled lock chamber, water risen almost to the top of the concrete walls, closed gates ahead, perfectly still water, no machinery visible, vertical 9:16 composition",
+        0.184
+      ],
+      [
+        "Tall vertical frame: the huge steel lock gates swinging open ahead of a ship, revealing calm open lake water and distant hills beyond, low morning light on the water, seen from the deck, vertical 9:16 composition",
+        0.235
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic early twentieth century archival photograph, monochrome with warm brown toning, harsh tropical sunlight, heavy silver-gelatin grain, slight motion blur, scratched emulsion, full-bleed image filling the whole frame",
+    "image_negative": "color photograph, saturated colors, modern digital render, CGI, 3d render, HDR, clean sharp digital detail, oil painting, brush strokes, white border, picture frame, mat, card mount, letterbox, text, watermark, signature"
+  }
+]

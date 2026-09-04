@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "slug": "pochtalon-kotoryy-doshel",
+    "hook": "Десятого мая тысяча девятьсот девяносто шестого года последним, кто поднялся на вершину Эвереста, был почтальон. Обратно он не спустился.",
+    "vo": "Дугласу Хансену было сорок шесть лет, и он развозил письма в городке под Сиэтлом. Годом раньше он стоял почти на этом самом месте. Тогда он повернул вниз и ушёл с горы живым. Весь следующий год он знал, как близко это было. Он снова копил, снова записался и снова пошёл. На вершину он вышел около половины пятого вечера, последним из всех. Кислород у него кончился почти сразу. Тела его не нашли.",
+    "ending": "Но странно здесь не то, что он дошёл. Странно, что его никто не развернул. Шри Чинмой говорит: сегодняшняя цель назавтра становится исходной точкой. Для Хансена вершина была не точкой, а концом пути. Концом она и оказалась. Группу вёл человек, у которого клиенты возвращались всегда, и держалось его имя не на снаряжении и не на опыте. Об этом в следующей серии.",
+    "images": [
+      [
+        "A lone climber in a red down suit and oxygen mask standing on a knife-edge snow ridge high above a sea of Himalayan peaks, late afternoon sun low and cold, tall vertical frame, vertical 9:16 composition",
+        0.2
+      ],
+      [
+        "An empty American suburban street in winter with a small postal delivery van parked at a kerb, bare trees, flat grey morning, tall vertical frame, vertical 9:16 composition",
+        0.22
+      ],
+      [
+        "Close view of a mountaineer's oxygen mask and iced goggles, face completely hidden behind frost and glass, hood drawn tight, tall vertical frame, vertical 9:16 composition",
+        0.3
+      ],
+      [
+        "A summit ridge of deep snow at dusk with a single line of footprints leading away from the camera and no person in sight, tall vertical frame, vertical 9:16 composition",
+        0.28
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Сегодняшняя цель\nназавтра становится\nисходной точкой.",
+      "source": "Шри Чинмой",
+      "url": "https://ru.srichinmoylibrary.com/ffb-77"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "chislo-na-kotorom-derzhalos-imya",
+    "hook": "Его имя держалось на самой скучной вещи, какая только бывает в горах. На числе.",
+    "vo": "Роб Холл водил людей на восьмитысячники и славился одним: клиенты у него возвращались. Не выносливостью. Не снаряжением. Числом. Контрольное время - это не час, к которому надо успеть наверх. Это час, в который ты разворачиваешься и идёшь вниз. Дошёл ты или не дошёл. Осталось до вершины три часа хода или двадцать минут. В прежние годы Холл называл час дня, иногда два. Запомните это число.",
+    "ending": "Но в то утро оно не прозвучало. Твёрдого часа Холл не объявил, и наверху заметили это не сразу. А когда заметили, спрашивать было уже поздно и незачем. Что делается с правилом, которого не назвали вслух? Об этом в следующей серии.",
+    "images": [
+      [
+        "A mountaineering expedition leader in a parka speaking into a handheld radio outside a yellow dome tent at a glacier camp, seen from behind, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A scratched wristwatch on a gloved hand held against bright snow, dial catching hard light, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A line of roped climbers moving slowly up a steep snow slope in single file, tiny against the white face, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A cluster of expedition tents on glacier ice beneath a huge broken icefall, early morning shadow, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness"
+  },
+  {
+    "id": 3,
+    "slug": "pravilo-bylo-pod-rukoy-trizhdy",
+    "hook": "Правило было под рукой трижды. Трижды им не воспользовались.",
+    "vo": "В два часа дня до вершины оставался час хода, и разворот стоил бы только денег и ещё одного года ожидания. В три часа Хансена догнал шерпа Анг Дордже и велел идти вниз. Ему за это и платят. Хансен не развернулся. Его догнал сам Холл, они коротко поговорили, и Хансен снова встал в цепочку и пошёл вверх. Третий раз был уже наверху, где спуск в темноте был не риском, а расписанием.",
+    "ending": "С каждым разом цена росла. На третьем она выросла так, что платить пришлось не одному человеку. К вечеру на гору легла буря. В четыре сорок пять утра Холл вышел на связь с базовым лагерем и сказал три слова. Дуга больше нет. Почему это случилось у самой вершины? Об этом в следующей серии.",
+    "images": [
+      [
+        "Two climbers in bulky down suits meeting on a narrow exposed ridge, one raising an arm to point back down the mountain, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A Sherpa mountaineer in a weathered jacket standing on snow with the summit pyramid behind him, face turned away, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A single figure standing on a wind-scoured summit in the last orange light of the day, sky already darkening above, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A dense storm cloud swallowing the upper pyramid of a huge snow mountain, spindrift streaming off the ridge, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness"
+  },
+  {
+    "id": 4,
+    "slug": "iskusitel-prihodit-na-sorokovoy",
+    "hook": "Искуситель приходит к Христу не в первый день поста. Он приходит на сороковой.",
+    "vo": "Фигура эта старше Эвереста и повторяется в каждой традиции, какая вообще бралась описывать испытание. Мара приходит к Будде не тогда, когда тот уходит из дворца, и не в первый год под деревом, а в ночь перед самым прозрением. Ни разу в начале. Всегда у порога, где до конца рукой подать. Причина считается на пальцах. В начале пути отступить почти ничего не стоит: вложено ещё немного и терять нечего. У порога отступить стоит всего сразу - двух лет, всех сбережений и той зимы, когда ты объяснял знакомым, что в прошлый раз не хватило совсем чуть-чуть.",
+    "ending": "Но при чём здесь число, которое Холл называл в прежние годы? При том, что устроено оно точно так же. В восемь утра оно не стоит ничего. Дорого оно ровно один раз за всё восхождение. Об этом в следующей серии.",
+    "images": [
+      [
+        "A barren stony desert at dusk with one small distant figure walking, immense empty sky, no vegetation, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A huge old fig tree at night, roots and hanging branches lit by a low moon, empty ground beneath it, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A narrow stone doorway with bright light beyond it, seen from inside a dark passage, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "The summit pyramid of a great snow mountain at night under a field of stars, no people, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness"
+  },
+  {
+    "id": 5,
+    "slug": "chto-stoilo-eto-chislo",
+    "hook": "Контрольное время подводит не оттого, что гора тяжёлая.",
+    "vo": "В восемь утра соблюсти его легко: до вершины ещё день пути, разворачиваться незачем. Дорого оно ровно один раз, в тот час, когда цель уже видна. Правило, которое проверяется только на последнем часе, это не страховка, а ловушка. И стоит она там же, где стоял искуситель. Но было и второе. Хансена нельзя было развернуть, и упрямство тут ни при чём. Он однажды отсюда уже разворачивался и целый год потом знал, как близко это было. Того, кто ни разу не подходил близко, повернуть можно. Того, кто год назад повернул, почти нельзя.",
+    "ending": "Шри Чинмой говорит об этом так: сомнение бьёт сильнее всего у самого порога. Гора не была к Хансену жестока. Она дала ему то, зачем он пришёл, и взяла обычную свою плату. Время. От всей истории осталось одно число. На рассвете оно не стоило ничего, а к ночи стоило двух жизней.",
+    "images": [
+      [
+        "A frost-covered watch half buried in wind-packed snow, hands still visible, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A climber walking away from the camera down a snow slope, summit ridge rising untouched behind, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "An empty snow summit in clear pale morning light, wind pluming off the crest, nobody there, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "An immense shadowed mountain wall of snow and rock falling away into cloud far below, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness"
+  }
+]

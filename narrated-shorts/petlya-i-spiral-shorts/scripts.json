@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1,
+    "slug": "attraktsion-kotoryy-lomal-shei",
+    "hook": "В тысяча восемьсот девяносто пятом году на Кони-Айленде открыли аттракцион, который ломал людям шеи. Очередь к нему стояла часами.",
+    "vo": "Он назывался «Флип-Флэп рэйлвэй» и был первой в Америке петлёй, через которую возили живых людей. Деревянная эстакада, короткий разгон с горки, а наверху кольцо. Вагонетка проходила его вверх ногами. Люди платили деньги за то, чтобы их вынесли оттуда без сознания. Пассажиры выходили со свёрнутыми шеями, кого-то выносили на руках, и всё это считалось частью удовольствия. Так он и работал семь лет.",
+    "ending": "Но сломанные шеи здесь не самое странное. Странно то, что они возвращались. Назавтра, с друзьями, за свои же деньги. Почему? Ответ спрятан в чертеже, а чертёж придумал человек, который сначала катал в этой вагонетке обезьян.",
+    "images": [
+      [
+        "Sepia-toned 1890s photograph, tall vertical frame: a wooden looping roller coaster on Coney Island at dusk, the circular timber loop rising through the upper half of the frame, a dense crowd in straw boater hats and long dresses filling the lower half, grainy antique film, vertical 9:16 composition",
+        0.28
+      ],
+      [
+        "Sepia 1890s photograph, tall vertical frame: an open wooden coaster car passing upside down through the top of a circular wooden loop, two passengers in period clothing hanging head-down, heavy timber structure filling the frame from top to bottom, grainy antique film, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Sepia 1890s photograph, tall vertical frame: two attendants in shirtsleeves carrying a limp unconscious man in a suit down the steps of a wooden amusement ride platform, the ride structure towering above them, period onlookers below, grainy antique film, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Sepia 1890s photograph, tall vertical frame: a long queue of men and women in straw boater hats and long dresses waiting at a wooden amusement ride entrance, the line receding into depth, the ride's wooden loop rising high above them, grainy antique film, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1890s archival photograph, monochrome sepia toning only, no color, heavy silver-gelatin film grain, soft focus, blown-out highlights, scratched emulsion, flat low-contrast antique print, full-bleed image filling the whole frame",
+    "image_negative": "color photograph, saturated colors, blue, green, teal, red, modern digital render, CGI, 3d render, HDR, vivid lighting, clean sharp detail, glossy, white border, photo frame, mat, card mount, letterbox"
+  },
+  {
+    "id": 2,
+    "slug": "ideal-nyy-krug-bichera",
+    "hook": "Прежде чем посадить в вагонетку человека, он посадил туда обезьян. А до обезьян - мешки с песком.",
+    "vo": "Машину придумал американский изобретатель Лина Бичер, и испытывал он её в Огайо, в открытом поле. Сначала мешки с песком, потом обезьяны. И только когда всё это стало возвращаться целым, Бичер пустил в вагонетку людей. Осторожный был человек. Наверху эстакады у него стояло кольцо, идеальный круг двадцати пяти футов в диаметре. Круг казался тогда самым очевидным решением, самой честной фигурой из всех, какие бывают: ни одного угла, ни одного излома, всюду один и тот же радиус. Бичер смотрел на свой чертёж и видел совершенство.",
+    "ending": "И в расчётах он не ошибся. Он ошибся в фигуре. Как самая правильная линия на свете может ломать людям шеи? Тот самый идеальный круг и сворачивал их, и сворачивал именно потому, что был идеальным. Запомните этот круг.",
+    "images": [
+      [
+        "A 19th century American inventor in a waistcoat and shirtsleeves standing in a tall workshop interior, studying a large technical drawing of a circular roller coaster loop pinned to the wall above him, oil lamp light, sepia, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Antique sepia photograph, tall vertical frame: a small wooden roller coaster test rig in an 1880s Ohio field, an open cart at the top of a circular wooden loop loaded with burlap sandbags, overcast sky filling the upper frame, flat open farmland below, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Antique sepia photograph, tall vertical frame: two small tethered monkeys sitting in an open wooden cart at the foot of a circular wooden test loop in an open field, the loop rising tall above them, 1880s, vertical 9:16 composition",
+        0.22
+      ],
+      [
+        "Extreme close-up in a tall vertical frame of an ink drafting compass drawing a perfect circle on yellowed blueprint paper, the arc filling the centre of the frame, precise geometric lines, warm lamplight, shallow depth of field, vertical 9:16 composition",
+        0.28
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1890s archival photograph, monochrome sepia toning only, no color, heavy silver-gelatin film grain, soft focus, blown-out highlights, scratched emulsion, flat low-contrast antique print, full-bleed image filling the whole frame",
+    "image_negative": "color photograph, saturated colors, blue, green, teal, red, modern digital render, CGI, 3d render, HDR, vivid lighting, clean sharp detail, glossy, white border, photo frame, mat, card mount, letterbox"
+  },
+  {
+    "id": 3,
+    "slug": "dvenadtsat-peregruzok",
+    "hook": "Тело, которое весило семьдесят килограммов, внизу этой петли́ начинало весить почти тонну. Двенадцать перегрузок, больше, чем выдерживает в бою лётчик-истребитель.",
+    "vo": "Вот чем мстил идеальный круг. Радиус у круга везде одинаковый. Перегрузка приходит не постепенно, а вся разом. Вагонетка входила в кольцо на полной скорости, и внизу петли́ человека вбивало в сиденье с силой, к которой лётчиков готовят годами. А в вагонетке сидел обычный человек в выходном костюме. Пассажиры выходили со свёрнутыми шеями. Кого-то выносили на руках, и никого это особенно не смущало.",
+    "ending": "Но самым странным здесь было не это. Знаете, чем кончалась каждая поездка? Как высоко кольцо ни подбрасывало человека, вагонетка приходила на ту же самую платформу, с которой уехала. Всегда на ту же самую. Запомните и это тоже.",
+    "images": [
+      [
+        "Dramatic low angle in a tall vertical frame: an open wooden roller coaster car at the very bottom of a circular loop, the timber structure rising the full height of the frame, blurred with speed, two passengers in 1890s clothing pressed down hard into their seats, motion blur, sepia, vertical 9:16 composition",
+        0.27
+      ],
+      [
+        "Vertical close-up of a man's face under extreme acceleration, cheeks and skin dragged downward, eyes squeezed shut, the face filling the upper half of a tall frame, dark blurred background below, dramatic side lighting, cinematic, vertical 9:16 composition",
+        0.25
+      ],
+      [
+        "Sepia 1890s photograph, tall vertical frame: two attendants supporting a dazed man in a suit whose head hangs to one side, helping him down a wooden ride platform staircase, period onlookers behind, grainy antique film, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Sepia 1890s photograph, tall vertical frame: a wooden roller coaster boarding platform seen down its length, an empty car standing exactly where it started, one bored attendant leaning on the rail, long shadows, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1890s archival photograph, monochrome sepia toning only, no color, heavy silver-gelatin film grain, soft focus, blown-out highlights, scratched emulsion, flat low-contrast antique print, full-bleed image filling the whole frame",
+    "image_negative": "color photograph, saturated colors, blue, green, teal, red, modern digital render, CGI, 3d render, HDR, vivid lighting, clean sharp detail, glossy, white border, photo frame, mat, card mount, letterbox"
+  },
+  {
+    "id": 4,
+    "slug": "shestdesyat-shest-let-tishiny",
+    "hook": "Кольцо, которое калечило людей, пытались спасти дважды. Третьей попытки не было.",
+    "vo": "Сначала «Флип-Флэп» придержали. Снижали скорость, сажали меньше народу, и в девятьсот втором его всё-таки закрыли. Ещё в девятьсот первом рядом взялся строить Эдвин Прескотт. Кольцо у него было уже не круглым, а вытянутым. Перегрузка упала до безопасной, и аттракцион стал безвредным. И почти сразу выяснилось, что кататься на нём никто не рвётся. Зато посмотреть собиралась толпа. Прескотт стал продавать билеты на смотровую площадку с девизом «Пятками вверх, головой вниз». Девиз этот оказался про зрителей. И только в тысяча девятьсот десятом кольцо разобрали.",
+    "ending": "И шестьдесят шесть лет после этого никто не строил петель. Горки стали выше, длиннее и быстрее. Они научились всему, кроме одного - переворачивать человека вверх ногами. Почему? Целое поколение инженеров было уверено, что дело в высоте, что человека просто нельзя поднимать так высоко. Они ошибались.",
+    "images": [
+      [
+        "Faded 1900s photograph, tall vertical frame: a wooden looping roller coaster standing closed, empty queue rails and weeds in the foreground, overcast melancholy sky filling the upper frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Antique 1901 photograph, tall vertical frame: a steel elliptical loop roller coaster at Coney Island, tall lattice steel structure rising against a bright sky, a small car cresting the loop, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A large Edwardian crowd packed into the lower half of a tall vertical frame behind a wooden fence, every face turned upward watching an unseen ride, straw hats and parasols, sepia photograph, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A mid-century amusement park at twilight in a tall vertical frame: a huge roller coaster of hills and no loops filling the frame, its lights just coming on, empty asphalt in the foreground, nostalgic, vertical 9:16 composition",
+        0.26
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1890s archival photograph, monochrome sepia toning only, no color, heavy silver-gelatin film grain, soft focus, blown-out highlights, scratched emulsion, flat low-contrast antique print, full-bleed image filling the whole frame",
+    "image_negative": "color photograph, saturated colors, blue, green, teal, red, modern digital render, CGI, 3d render, HDR, vivid lighting, clean sharp detail, glossy, white border, photo frame, mat, card mount, letterbox"
+  },
+  {
+    "id": 5,
+    "slug": "klotoida-eto-spiral",
+    "hook": "В тысяча девятьсот семьдесят шестом петлю вернули на американские горки, и немецкий инженер Вернер Штенгель изменил в ней ровно одну вещь.",
+    "vo": "Трассу он прочнее не делал. Он изменил только форму входа в кольцо. Вместо круга Штенгель взял клотоиду. У неё радиус не постоянный: он плавно уменьшается по ходу движения, и нагрузка не обрушивается разом, а нарастает и отпускает. Высота осталась прежней, скорость прежней, переворот тот же, а перегрузка упала с двенадцати единиц до пяти. И у этой кривой есть второе имя. Знаете какое? Клотоида - это спираль. То же самое, только про человека, говорит Шри Чинмо́й: ваш путь - не петля, а спираль. И есть тот, кто на каждом вираже́ шепчет вам, что это вы сами взлетели. Он носит ваше имя и ваше лицо, и ему нужно, чтобы вас вернуло на прежнюю платформу. Он и есть тот идеальный круг.",
+    "ending": "У круга и у спирали одна и та же высота, и отличаются они только одним. Круг возвращает вас туда, откуда вы стартовали. Спираль - никогда.",
+    "images": [
+      [
+        "A German engineer in the mid 1970s at a drafting table in a bright modern office, drawing a teardrop-shaped roller coaster loop curve, technical instruments on the desk, seen in a tall vertical frame, 1970s color film grain, vertical 9:16 composition",
+        0.19
+      ],
+      [
+        "Clean graphic illustration on dark blueprint paper, tall vertical layout: a perfect circle in the upper half and a teardrop clothoid curve below it, thin luminous white lines, technical annotation marks, minimal, vertical 9:16 composition",
+        0.19
+      ],
+      [
+        "A modern steel roller coaster teardrop loop photographed from below against a brilliant blue sky, the loop filling a tall vertical frame, a full train of riders upside down mid-loop, bright and joyful, vertical 9:16 composition",
+        0.2
+      ],
+      [
+        "A single dark figure sitting alone in an empty amusement ride car at night, faintly lit by one platform lamp, the park receding into darkness above and around, tall vertical frame, moody cinematic, vertical 9:16 composition",
+        0.21
+      ],
+      [
+        "A luminous ascending spiral of light rising out of a dark closed ring and continuing upward beyond the top of a tall vertical frame, a deep star field behind, awe-inspiring, vertical 9:16 composition",
+        0.21
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1890s archival photograph, monochrome sepia toning only, no color, heavy silver-gelatin film grain, soft focus, blown-out highlights, scratched emulsion, flat low-contrast antique print, full-bleed image filling the whole frame",
+    "image_negative": "color photograph, saturated colors, blue, green, teal, red, modern digital render, CGI, 3d render, HDR, vivid lighting, clean sharp detail, glossy, white border, photo frame, mat, card mount, letterbox"
+  }
+]

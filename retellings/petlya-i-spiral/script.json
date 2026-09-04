@@ -1,0 +1,154 @@
+{
+  "slug": "petlya-i-spiral",
+  "title": "Петля и спираль",
+  "source": "vox-shorts/vox-17-petlya-i-spiral (64s), retold long-form per retellings/STORY-STRUCTURE.md; проза под voice-profiles/chekhov-ru",
+  "format": "16:9",
+  "voice": {
+    "voice_id": "Nikolai",
+    "model": "inworld-tts-1.5-max",
+    "temperature": 1.1,
+    "speaking_rate": 0.9
+  },
+  "music": "media/library/music/clips/ambient-pad.mp3",
+  "image_provider": "cloudflare",
+  "image_model": "@cf/leonardo/lucid-origin",
+  "beats": [
+    {
+      "role": "hook",
+      "text": "В тысяча восемьсот девяносто пятом году на Кони-Айленде открыли аттракцион, который ломал людям шеи, и очередь к нему стояла часами. Он назывался «Флип-Флэп рэйлвэй». Люди платили деньги за то, чтобы их вынесли из вагонетки без сознания, и на следующий день приходили снова, и приводили знакомых, и платили опять.",
+      "pause_after": 0.4,
+      "images": [
+        [
+          "Sepia-toned 1890s photograph of a wooden looping roller coaster on Coney Island at dusk, the circular timber loop standing at the right of a wide boardwalk panorama, a crowd in straw boater hats and long dresses spread along the left, grainy antique film, wide cinematic 16:9 composition, uncluttered lower third",
+          0.5
+        ],
+        [
+          "Sepia 1890s wide shot: two attendants in shirtsleeves carrying a limp unconscious man in a suit away from a wooden amusement ride platform, the ride structure filling the right of frame, onlookers in period dress ranged across the left, grainy antique photograph, wide cinematic 16:9 composition",
+          0.5
+        ]
+      ]
+    },
+    {
+      "role": "scene",
+      "text": "Машину придумал американский изобретатель Лина Бичер, и сначала он испытывал её в Огайо, в поле, сажая в вагонетку мешки с песком, потом обезьян, и только потом, убедившись, что мешки и обезьяны возвращаются целыми, людей. Деревянная эстакада, короткий разгон с горки, и наверху кольцо. Идеальный круг двадцати пяти футов в диаметре. Круг казался тогда очевидным решением, самой честной фигурой из всех, какие бывают: ни одного угла, ни одного излома, всюду один и тот же радиус. Бичер смотрел на свой чертёж и видел совершенство. Запомните этот круг.",
+      "pause_after": 0.4,
+      "images": [
+        [
+          "A 19th century American inventor in a waistcoat and shirtsleeves at the left of a wide workshop interior, studying a large technical drawing of a circular roller coaster loop pinned to the wall, tools and lamplight filling the right, oil lamp light, sepia, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "Antique wide photograph of a small wooden roller coaster test rig in an 1880s Ohio field, an open cart at the top of a circular wooden loop carrying burlap sandbags and two tethered monkeys, flat open farmland stretching to both edges, overcast sky, sepia, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "Extreme close-up across a wide frame of an ink drafting compass drawing a perfect circle on yellowed blueprint paper, the arc sweeping the full width, precise geometric lines, warm lamplight, shallow depth of field, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    },
+    {
+      "role": "break",
+      "text": "Вагонетка входила в кольцо на полной скорости, и здесь круг мстил за своё совершенство. Радиус у него везде одинаковый, а значит и перегрузка приходит не постепенно, а вся разом, и тело, которое секунду назад весило семьдесят килограммов, внизу петли́ начинало весить почти тонну. Двенадцать единиц. Больше, чем выдерживает в бою лётчик-истребитель. Пассажиры выходили со свёрнутыми шеями, кого-то выносили на руках, и всё это считалось частью удовольствия. Но самым странным здесь было не это. Как бы высоко кольцо ни подбросило человека, вагонетка возвращалась на ту же самую платформу, с которой уехала.",
+      "pause_after": 0.4,
+      "images": [
+        [
+          "Dramatic low wide angle of an open wooden roller coaster car at the very bottom of a circular loop, the timber structure arcing across the whole frame, blurred with speed, two passengers in 1890s clothing pressed down hard into their seats, motion blur, sepia, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "Wide close-up of a man's face under extreme acceleration, cheeks and skin pulled downward, eyes squeezed shut, the face set to the left of frame, dark blurred background filling the right, dramatic side lighting, cinematic, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "Sepia 1890s wide photograph of a wooden roller coaster boarding platform receding across the frame, an empty car standing exactly where it started, one bored attendant leaning on the rail, long shadows, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    },
+    {
+      "role": "three",
+      "text": "Дальше история идёт тремя попытками. «Флип-Флэп» пробовали спасти, снижали скорость, сажали меньше людей, и в тысяча девятьсот втором его всё-таки закрыли. Пока его чинили, за дело взялся Эдвин Прескотт: в тысяча девятьсот первом он построил рядом новое кольцо, уже не круглое, а вытянутое, эллиптическое, и перегрузка упала до безопасной, и аттракцион стал безвредным, и почти сразу выяснилось, что кататься на нём никто не рвётся. Зато собиралась толпа посмотреть. Прескотт стал продавать билеты на смотровую площадку, и на билетах печатали девиз «Пятками вверх, головой вниз», и девиз этот, как оказалось, был про зрителей. В вагонетку помещалось четверо. Денег это не приносило, и в тысяча девятьсот десятом кольцо разобрали. Третьей попытки не было.",
+      "pause_after": 0.4,
+      "images": [
+        [
+          "Faded 1900s wide photograph of a wooden looping roller coaster standing closed, empty queue rails and weeds running across the foreground, overcast melancholy sky filling the upper frame, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "Antique 1901 wide photograph of a steel elliptical loop roller coaster at Coney Island, tall lattice steel structure against a bright sky with the boardwalk stretching away to the side, a small car cresting the loop, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "A large Edwardian crowd ranged across a wide frame behind a wooden fence, every face turned upward watching an unseen ride, straw hats and parasols, a ticket booth at the left edge, sepia photograph, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "Workers dismantling the lattice ironwork of a steel roller coaster loop in 1910, the skeleton spanning the frame, empty beach and open sea behind them, sepia documentary photograph, wide cinematic 16:9 composition",
+          0.25
+        ]
+      ]
+    },
+    {
+      "role": "quiet",
+      "text": "Шестьдесят шесть лет никто не строил петель. Горки за это время стали выше, длиннее и быстрее, они научились всему, кроме одного, - они больше не переворачивали человека вверх ногами. Целое поколение инженеров было уверено, что дело в высоте, что человека просто нельзя поднимать так высоко. Они ошибались.",
+      "pause_after": 0.7,
+      "images": [
+        [
+          "A long empty wooden roller coaster boarding platform at dawn stretching from edge to edge, no people, low mist, rails leading off into fog, muted desaturated colors, quiet and still, cinematic, wide cinematic 16:9 composition",
+          0.5
+        ],
+        [
+          "A mid-century amusement park at twilight seen wide across empty asphalt: a huge roller coaster of hills and no loops spanning the horizon, its lights just coming on, nostalgic, wide cinematic 16:9 composition",
+          0.5
+        ]
+      ]
+    },
+    {
+      "role": "turn",
+      "text": "В тысяча девятьсот семьдесят шестом году немецкий инженер Вернер Штенгель вернул петлю на американские горки, и он не сделал трассу прочнее, и не стал искать людей покрепче, а изменил одну-единственную вещь - форму входа в кольцо. Вместо круга он взял клотоиду, кривую, у которой радиус не постоянный, а плавно уменьшается по ходу движения, так что нагрузка не обрушивается на человека, а нарастает и отпускает. У этой кривой есть второе имя. Клотоида - это спираль. Высота осталась прежней, скорость прежней, переворот тот же, а перегрузка упала с двенадцати единиц до пяти. Разница между аттракционом, который калечит, и аттракционом, ради которого стоят в очереди, оказалась не в высоте взлёта и не в глубине падения, а только в том, по какой кривой человек в это входит. Ровно это, только про человека, и говорит Шри Чинмо́й: ваш путь - не петля, а спираль.",
+      "pause_after": 0.5,
+      "images": [
+        [
+          "A German engineer in the mid 1970s at a wide drafting table in a bright modern office, drawing a teardrop-shaped roller coaster loop curve, technical instruments spread across the desk, 1970s color film grain, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "Clean graphic illustration on dark blueprint paper, wide layout: a perfect circle on the left beside a teardrop clothoid curve on the right, thin luminous white lines, technical annotation marks, minimal, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A glowing white spiral curve drawn in light against a deep dark background, sweeping in from the left and tightening smoothly toward a centre right of frame, elegant mathematical form, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "Split wide composition against a plain sky: on the left an 1890s wooden roller coaster car in a tight circular loop, on the right a modern steel car in a teardrop loop of the same height, documentary photographic style, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A modern steel roller coaster teardrop loop photographed from below against a brilliant blue sky, the loop filling the left of a wide frame with open sky to the right, a full train of riders upside down mid-loop, bright and joyful, wide cinematic 16:9 composition",
+          0.2
+        ]
+      ]
+    },
+    {
+      "role": "return",
+      "text": "Восторг и отчаяние - две точки одной петли́, и пока вы ме́рите себя высотой взлёта, вы просто катаетесь по кругу, а падение дано не затем, чтобы вас сломать, - именно на спуске, говорит Чинмо́й, рождается сила для нового подъёма. И есть тот, кто на каждом вираже́ шепчет вам, что это вы сами взлетели. Он носит ваше имя и ваше лицо, и ему нужно, чтобы вас непременно вернуло на ту же платформу, где на вас смотрят. Он и есть тот идеальный круг. У круга и у спирали одна и та же высота, и отличаются они только одним. Круг возвращает вас туда, откуда вы стартовали. Спираль - никогда.",
+      "pause_after": 0.6,
+      "images": [
+        [
+          "Silhouette of a seated meditating figure small against a vast dark wide sky, a faint luminous ring of light encircling them, immense empty space to either side, contemplative, cinematic, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "A single dark figure sitting alone in an empty amusement ride car at night, the car at the right of a wide frame, faintly lit by one platform lamp, the rest of the park receding into darkness across the left, moody cinematic, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "A luminous ascending spiral of light rising out of a dark closed ring and continuing upward beyond the frame, a wide star field spanning the background, awe-inspiring, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    }
+  ]
+}

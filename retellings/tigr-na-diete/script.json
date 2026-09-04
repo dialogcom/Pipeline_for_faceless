@@ -1,0 +1,154 @@
+{
+  "slug": "tigr-na-diete",
+  "title": "Тигр на диете",
+  "source": "narrated-shorts/trudnosti-puti #3 (tigr-na-diete, 60s), пересказано вдолгую по retellings/STORY-STRUCTURE.md; проза под voice-profiles/chekhov-ru",
+  "format": "16:9",
+  "voice": {
+    "voice_id": "Nikolai",
+    "model": "inworld-tts-1.5-max",
+    "temperature": 1.1,
+    "speaking_rate": 0.9
+  },
+  "music": "media/library/music/clips/ambient-pad.mp3",
+  "image_provider": "cloudflare",
+  "image_model": "@cf/leonardo/lucid-origin",
+  "beats": [
+    {
+      "role": "hook",
+      "pause_after": 0.4,
+      "text": "В начале тридцатых годов в лаборатории Брауновского университета у аспиранта в воскресенье кончился кошачий корм. Магазины были закрыты, купить было негде, и он поступил так, как подсказывала ему тогдашняя теория обучения: прогнал кошку через опыт, как всегда, и отнёс обратно в клетку - без награды. Кошка кричала почти сорок восемь часов подряд - не вечер, а двое суток.",
+      "images": [
+        [
+          "Sepia 1930s photograph of a dim university animal laboratory at night, rows of wire cages along the right wall, one cage lit by a single bulb with a cat inside standing alert, long empty corridor stretching left, grainy antique film, wide cinematic 16:9 composition, uncluttered lower third",
+          0.5
+        ],
+        [
+          "Close-up of a cat's open mouth mid-cry behind wire mesh, head turned to the left of a wide frame, harsh single-bulb lighting, deep shadow filling the right, black and white documentary photograph, wide cinematic 16:9 composition",
+          0.5
+        ]
+      ]
+    },
+    {
+      "role": "scene",
+      "pause_after": 0.4,
+      "text": "В это же время в Гарварде другой человек катал шарики. Бёррес Скиннер подсмотрел у соседа-аптекаря машинку для пилюль и заказал себе такую же. Латунная рифлёная постель, на неё кладут длинный цилиндр густой пасты, сверху опускают такой же рифлёный нож и медленно катают взад-вперёд. Из цилиндра выходит примерно дюжина шариков. Сушить сутки. Работа, по его собственным словам, кропотливая и муторная. Восемь крыс съедали по сотне шариков в день каждая. И вот в одну прекрасную субботу Скиннер пересчитал запас и вывел, что к половине одиннадцатого утра понедельника шариков не останется. Запомните эту нехватку.",
+      "images": [
+        [
+          "Sepia 1930s photograph of a young man in shirtsleeves and tie working alone at a long laboratory bench, apparatus and glassware spread the length of the frame, tall windows behind him, Harvard basement, grainy antique film, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "Extreme close-up of a brass fluted pill machine on a wooden bench, a long cylinder of stiff grey paste laid in its grooves, a fluted cutter resting on top, warm lamplight from the left, shallow depth of field, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "Rows of small spherical food pellets drying on a metal tray, laid out edge to edge across a wide frame, top-down view, dim laboratory light, sepia, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    },
+    {
+      "role": "break",
+      "pause_after": 0.4,
+      "text": "Он не пошёл катать шарики. Он сел и впервые спросил себя, а почему, собственно, награждать надо каждое нажатие. Ответа в его науке не было, было только правило, простое и всем известное, - подкреплять следует всё, что хочешь закрепить. Проверять его никому не приходило в голову. Скиннер решил давать еду не за нажатие, а раз в минуту, а все прочие нажатия оставлять пустыми. Результата вышло два, и он перечисляет их именно в таком порядке. Первое: запаса шариков стало хватать почти бесконечно. Второе: каждая крыса вышла на ровный постоянный темп и перестала останавливаться.",
+      "images": [
+        [
+          "Sepia photograph of a small wooden experimental box with a metal lever inside, a laboratory rat mid-press, mechanism and wiring visible to the right, dark surroundings, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "A hand in shirtsleeves writing figures in pencil in a lined laboratory notebook lying open across a wide desk, calculations and a small sketch of an apparatus, warm lamplight, sepia, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "Close-up of an antique cumulative recorder: a pen resting on slowly moving graph paper drawing a straight steady rising line, the paper drum spanning the frame, brass and glass, dim laboratory light, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    },
+    {
+      "role": "three",
+      "pause_after": 0.4,
+      "text": "Дальше история идёт тремя шагами. Первый: Скиннер заметил, что этот ровный темп задан голодом. Голодная крыса жмёт часто, сытая редко. Второй: он перевернул своё же правило и стал выдавать корм не через минуту, а после определённого числа нажатий, и тогда крыса начала удерживать себя в одном и том же голоде сама. Проголодалась - работает быстрее, получает больше, сытеет. Осела - работает реже, получает меньше, снова голодна. Круглые сутки, без надзирателя, с перерывом только на сон. Третий шаг оказался крупнее двух первых вместе взятых. Из этого выросла целая наука о расписаниях подкрепления, и объяснила она не крыс. Игровые автоматы, лотереи, ленту, которую вы тянете вниз пальцем и которая иногда, не каждый раз, выдаёт вам что-нибудь стоящее.",
+      "images": [
+        [
+          "Two laboratory rats in adjacent wooden boxes seen side by side across a wide frame, one pressing a lever briskly, the other still, sepia documentary photograph, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "A long strip of graph paper unrolling across the whole width of the frame, covered in a dense staircase of small rising steps, a recording pen at the right edge, sepia, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "A wall of a 1930s laboratory hung with dozens of pinned chart papers of rising curves, a figure in a lab coat small at the left studying them, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "A dim casino floor at night seen wide, a long row of slot machines glowing, a single person seated at one of them far down the row, modern colour photography, moody, wide cinematic 16:9 composition",
+          0.25
+        ]
+      ]
+    },
+    {
+      "role": "quiet",
+      "pause_after": 0.7,
+      "text": "Возьмите двух крыс. Одну кормили за каждое нажатие, честно, без единого пропуска. Вторую кормили иногда, как придётся. Теперь отключите кормушку обеим разом. Первая бросит быстро, ей сразу видно, что мир переменился и правило больше не работает. Вторая будет жать долго, упрямо и зло. Не потому, что получила больше. Потому что получала не всегда.",
+      "images": [
+        [
+          "Two identical small wooden experimental boxes standing side by side on a bare table in an empty room, both silent, cold morning light from a window at the left, muted desaturated colours, still, wide cinematic 16:9 composition",
+          0.5
+        ],
+        [
+          "Extreme close-up of an empty metal food hopper, its small door shut, dust and one crumb on the tray, cold light, shallow depth of field, wide cinematic 16:9 composition",
+          0.5
+        ]
+      ]
+    },
+    {
+      "role": "turn",
+      "pause_after": 0.5,
+      "text": "В тысяча девятьсот тридцать девятом году Ллойд Хамфрис измерил это на людях, и результат вышел настолько обратным здравому смыслу, что его так и назвали: парадокс Хамфриса. Реакция, которую подкрепляли не всегда, гаснет заметно медленнее той, которую подкрепляли каждый раз. Если награда была всегда, её исчезновение видно сразу. Если иногда, то пустая полоса ничем не отличается от прежних пустых полос, и ждать можно бесконечно. Теперь вернитесь к той субботе. Нехватка шариков не помешала опыту. Нехватка и была опытом. И крик той кошки - не сопротивление аспиранту, а точная мера того расписания, по которому её кормили. Шри Чинмо́й говорит, что желание - это тигр, которого вы кормили всю жизнь, и стоит перестать, как он бросается на вас во всех углах жизни. Скиннер добавляет поправку, и она вот какая - сила броска задана не тем, сколько вы дали, а тем, насколько нерегулярно.",
+      "images": [
+        [
+          "A 1930s psychology laboratory: a seated volunteer facing an apparatus that delivers a puff of air to the eye, an assistant at a recording drum to the right, sepia documentary photograph, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "Clean graphic illustration on dark blueprint paper, wide layout: two descending curves side by side, one dropping steeply and one trailing far to the right almost flat, thin luminous white lines, technical annotation marks, minimal, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A long strip of graph paper running the width of the frame showing a line that keeps rising in small steps long after the ink of the reward marks has stopped, sepia, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "Sepia still life across a wide bench: an empty pill machine, a bare drying tray and a closed notebook, late afternoon light raking from the left, nobody present, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A tiger standing in near darkness behind bars, only its eyes and the line of its shoulder catching the light, the animal placed right of centre with deep black filling the left, dramatic chiaroscuro, wide cinematic 16:9 composition",
+          0.2
+        ]
+      ]
+    },
+    {
+      "role": "return",
+      "pause_after": 0.6,
+      "text": "Кошка в Брауновском университете кричала двое суток не оттого, что была голодна. Голод проходит за вечер. Она кричала оттого, что до того воскресенья еда приходила к ней не по закону, а по милости, и у крика просто не было причины остановиться. Отсюда и вся разница между тем, кто держит пост, и тем, кто срывается по субботам. Уступка - это не передышка в диете. Это новая запись в расписании, и завтрашний рёв будет ровно такой длины, какую вы в него сегодня положили. Пустая кормушка молчит одинаково для всех. Считает не она. Считает тот, кто сидит перед ней и помнит, сколько раз она открывалась не вовремя.",
+      "images": [
+        [
+          "A single cat sitting upright and motionless in a wire cage at night, seen from slightly below, the long dark room receding behind it, one bulb overhead, black and white documentary photograph, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "An empty feeding hatch in a cage wall, closed, photographed straight on across a wide frame, scratched metal, cold even light, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "A dark animal silhouette sitting patiently facing a small closed metal hatch, seen in wide profile, a single shaft of pale light across the floor between them, quiet and still, cinematic, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "slug": "falcon-i-gravitaciya",
+    "hook": "Он вложил последние сто миллионов долларов в безумную идею. Три запуска подряд закончились огненной катастрофой на глазах у всего мира...",
+    "vo": "Ползать по земле, собирая простые самолеты, было легко. Но преодолеть гравитацию планеты и выйти на орбиту - задача совершенно другого уровня. Сопротивление среды возрастает многократно. В учении Шри Чинмоя духовный путь устроен так же. Жить обычной жизнью, потакая слабостям - это легкое ползание. Но как только вы решаете встать и сделать шаг к высшей цели - притяжение прошлого бьет по вам со всей силой.",
+    "ending": "Но почему, как только вы начинаете искать свет, внутри просыпаются демоны, о которых вы даже не подозревали? Почему медитация сначала делает только хуже? Об этом - в следующей серии.",
+    "images": [
+      ["A rocket exploding in a massive fireball on a remote island launch pad at dusk, enormous orange fire cloud and billowing black smoke, grainy archival documentary look, catastrophic and dramatic, vertical composition", 0.20],
+      ["Silhouettes of engineers standing in a dim mission control room, watching a distant fire on the horizon through a large window, faces in shadow, cold blue monitor glow, heavy tense atmosphere, vertical composition", 0.14],
+      ["A cluttered engineering desk covered with technical rocket blueprints and schematics, crumpled newspaper pages beside them, an exhausted engineer with head in hands blurred in the background, harsh fluorescent light, vertical composition", 0.20],
+      ["A baby in a soft cream cotton onesie standing unsteadily on wobbly legs on a carpet, arms outstretched for balance, caught mid-stumble, warm golden home light, shallow depth of field, tender and intimate, vertical composition", 0.22],
+      ["Close-up portrait of a person meditating, the face clearly lit and well exposed by warm golden rim light from one side against a dark background, visible tension in the brow, eyes just beginning to open, cinematic low-key lighting, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0},
+    "image_provider": "cloudflare",
+    "image_model": "@cf/leonardo/lucid-origin"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "slug": "zabeg-kotoryy-nikuda-ne-vedet",
+    "hook": "Самый длинный забег на земле никуда не ведёт. Он идёт вокруг одного квартала в Квинсе: школа, шоссе, тротуар, поворот.",
+    "vo": "Три тысячи сто миль. Пять тысяч шестьсот сорок девять кругов по одному и тому же асфальту, на всё дают пятьдесят два дня, и бежать разрешено с шести утра до полуночи. Это два марафона в сутки, семь недель подряд. Восемь раз забег выиграл финн по имени Ашприханал. Он развозит посылки в Хельсинки и весит пятьдесят восемь килограммов. В две тысячи пятнадцатом он прошёл дистанцию за сорок дней и девять часов. Рекорд стоит до сих пор.",
+    "ending": "Но круг ничего не обещает. Та же трещина в асфальте, тот же поворот, и завтра снова он. Зачем тогда бежать? Шри Чинмой задумал этот забег не ради миль, а ради того, чтобы человек вышел за свою прежнюю меру. Сам Ашприханал отвечает проще: долгий бег хорошо тренирует ум. Тринадцать лет подряд по этому кругу бежала одна женщина. Об этом в следующей серии.",
+    "images": [
+      [
+        "Hand-painted anime film still, tall vertical frame: a lone thin long-distance runner in a plain singlet running along an empty city sidewalk at sunrise, a low brick school building and a chain-link fence beside him, long shadow stretching across the pavement, warm orange dawn light, painted skyscape filling the upper third, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Hand-painted anime film still, tall vertical frame: close low view of a runner's worn and taped running shoes mid-stride on cracked grey asphalt, one deep crack in the pavement in sharp focus, scattered summer leaves, hot midday sunlight, shallow painted depth, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Hand-painted anime film still, tall vertical frame: night on a quiet city street corner under a single warm streetlamp, a small thin runner passing a folding table where two helpers sit with a lap-count board and paper cups, dark trees and a highway barrier behind, deep blue night palette, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Hand-painted anime film still, tall vertical frame: high aerial view of a single rectangular city block in Queens New York at dusk, sidewalks tracing a closed loop around it, one tiny runner figure on the pavement, rows of small houses, a wide highway along one side, warm violet evening light, vertical 9:16 composition",
+        0.26
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", 1990s hand-drawn anime cel animation film still, painted gouache backgrounds, clean confident ink linework, flat cel shading with two tones, warm natural film colour, soft atmospheric haze, no text, full-bleed image filling the whole frame",
+    "image_negative": "3d render, CGI, photorealistic, photograph, modern glossy digital anime, moe big-eyed character art, chibi, plastic skin, lens flare, HDR, text, letters, watermark, signature, white border, photo frame, letterbox, deformed hands, extra limbs"
+  },
+  {
+    "id": 2,
+    "slug": "trinadtsat-let-po-odnomu-krugu",
+    "hook": "Тринадцать лет подряд она выходила на старт самого длинного забега на земле. И ни разу не сошла.",
+    "vo": "Супрабха Бекджорд бежала три тысячи сто миль каждое лето, с девяносто седьмого года по две тысячи девятый, и все эти годы была на дистанции единственной женщиной. Круг - полмили. За тринадцать забегов она намотала сорок тысяч триста две мили. Это два раза вокруг Земли, пройденные по одному кварталу в Квинсе. Когда она финишировала в последний раз, ей было пятьдесят три года, а дистанция забрала у неё шестьдесят дней.",
+    "ending": "Мимо неё проходили бегуны быстрее, финишировали, уезжали домой. Но она оставалась на круге. Тротуар за тринадцать лет не изменился ни на метр. Изменилась она. У каждого есть свой такой квартал: то же утро, та же дорога, та же работа. Круг и не должен меняться. Меняется только тот, кто по нему идёт. А ваш круг сегодня какой?",
+    "images": [
+      [
+        "Hand-painted anime film still, tall vertical frame: a woman runner in her early fifties, short greying hair, plain white running shirt and cap, moving steadily along a sunlit city sidewalk in summer heat, heat shimmer over the asphalt, green street trees and small brick houses behind her, calm determined expression, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Hand-painted anime film still, tall vertical frame: two tall young male runners overtaking a smaller woman runner on a narrow city sidewalk, they blur past in motion while she holds her steady pace in the foreground, midday summer light, painted motion streaks, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Hand-painted anime film still, tall vertical frame: the same stretch of cracked city sidewalk shown empty, morning light falling across it, a chalk lap mark faded on the concrete, weeds at the kerb, a single pair of footprints in the dust, quiet and still, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Hand-painted anime film still, tall vertical frame: wide dusk view of the quiet city block, a single small woman runner far down the empty sidewalk under a deep violet sky with the first stars, warm windows glowing in the houses, her long shadow trailing behind her, vertical 9:16 composition",
+        0.26
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", 1990s hand-drawn anime cel animation film still, painted gouache backgrounds, clean confident ink linework, flat cel shading with two tones, warm natural film colour, soft atmospheric haze, no text, full-bleed image filling the whole frame",
+    "image_negative": "3d render, CGI, photorealistic, photograph, modern glossy digital anime, moe big-eyed character art, chibi, plastic skin, lens flare, HDR, text, letters, watermark, signature, white border, photo frame, letterbox, deformed hands, extra limbs"
+  }
+]

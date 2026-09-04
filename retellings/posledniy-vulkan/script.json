@@ -1,0 +1,154 @@
+{
+  "slug": "posledniy-vulkan",
+  "title": "Последний вулкан",
+  "source": "narrated-shorts/trudnosti-puti #6 (posledniy-vulkan, 60s), пересказано вдолгую по retellings/STORY-STRUCTURE.md; проза под voice-profiles/chekhov-ru",
+  "format": "16:9",
+  "voice": {
+    "voice_id": "Nikolai",
+    "model": "inworld-tts-1.5-max",
+    "temperature": 1.1,
+    "speaking_rate": 0.9
+  },
+  "music": "media/library/music/clips/ambient-pad.mp3",
+  "image_provider": "cloudflare",
+  "image_model": "@cf/leonardo/lucid-origin",
+  "beats": [
+    {
+      "role": "hook",
+      "pause_after": 0.4,
+      "text": "Десятого мая тысяча девятьсот девяносто шестого года последним, кто в тот день поднялся на вершину Эвереста, был почтальон из городка Кент под Сиэтлом. Дугласу Хансену было сорок шесть лет. Годом раньше он стоял почти на этом самом месте и повернул вниз - живым. В этот раз он дошёл. Обратно он не спустился, и тела его не нашли.",
+      "images": [
+        [
+          "A lone climber in a red down suit standing on a narrow snow summit ridge in late afternoon light, vast Himalayan peaks falling away to both sides below a deep blue-black sky, wide cinematic 16:9 composition, uncluttered lower third",
+          0.5
+        ],
+        [
+          "A wide empty summit ridge of snow at dusk, boot prints leading away toward the right edge and no one on it, wind-blown spindrift, cold blue light, wide cinematic 16:9 composition",
+          0.5
+        ]
+      ]
+    },
+    {
+      "role": "scene",
+      "pause_after": 0.4,
+      "text": "Водила группу новозеландская фирма «Эдвенчер консалтантс», и водил её Роб Холл - человек, сделавший себе имя на том, что клиенты у него возвращаются. Держалось это имя не на снаряжении, не на выносливости и даже не на опыте, а на самой скучной вещи, какая только бывает в горах. На числе. Контрольное время. Это не время, к которому нужно успеть наверх, - это время, в которое ты разворачиваешься и идёшь вниз, дошёл ты или не дошёл, осталось до вершины три часа или двадцать минут. Холл называл в прежние годы час дня, иногда два. Запомните это число.",
+      "images": [
+        [
+          "A cluster of yellow expedition tents on the glacier at Everest base camp, seracs and the icefall filling the right of a wide frame, prayer flags strung across the left, bright thin high-altitude light, documentary photograph, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "A group of climbers in down jackets gathered around a folding table inside a mess tent, a hand-drawn schedule taped to the canvas wall behind them, lamplight, documentary photograph, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "Extreme close-up of a scratched mechanical wristwatch worn over a thick expedition glove, its hands near two o'clock, snow crystals on the strap, shallow depth of field, cold light, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    },
+    {
+      "role": "break",
+      "pause_after": 0.4,
+      "text": "В то утро правило впервые повело себя не так, как задумано. Твёрдого часа Холл в тот день не объявил, и наверху это заметили не сразу, а когда заметили, спрашивать было уже поздно и незачем. К двум дня Хансен вершины не достиг. К трём его догнал шерпа Анг Дордже и велел разворачиваться. Хансен не развернулся. Его догнал сам Холл, они коротко поговорили, и Хансен снова встал в цепочку и пошёл вверх. На вершину он вышел около половины пятого, последним из всех. Кислород у него кончился почти сразу.",
+      "images": [
+        [
+          "A long single file of climbers roped along a knife-edge snow ridge at high altitude, seen wide from the side, tiny against an immense drop, midday glare, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "Two climbers in oxygen masks facing each other on a steep snow slope, one gesturing downward, wind tearing at their suits, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "Close-up of a frost-covered oxygen regulator and gauge on a climber's pack, the needle at the bottom of its arc, ice on the brass, harsh light, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    },
+    {
+      "role": "three",
+      "pause_after": 0.4,
+      "text": "Правило было под рукой трижды, и трижды им не воспользовались. В два часа дня, когда до вершины оставалось около часа хода и разворот стоил бы только денег и ещё одного года ожидания. В три часа, когда об этом прямо и вслух сказал шерпа - человек, которому именно за это и платят. И наверху, куда он всё-таки вышел, где спуск в темноте был уже не риском, а расписанием. С каждым разом цена росла, и на третьем выросла так, что платить пришлось не одному человеку. К вечеру на гору легла буря. В четыре сорок пять утра одиннадцатого мая Холл вышел на связь с базовым лагерем и сказал три слова: Дуга больше нет.",
+      "images": [
+        [
+          "A wide high-altitude landscape at early afternoon, a line of tiny climbers still ascending a vast snowfield, clear sky, enormous scale, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "A Sherpa climber in a weathered down suit turned back toward the camera on a steep ridge, mask pushed aside, mid-shout, the slope falling away behind him, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "A dark wall of storm cloud swallowing a Himalayan summit ridge, light failing fast, snow streaming horizontally across the whole width of the frame, wide cinematic 16:9 composition",
+          0.25
+        ],
+        [
+          "Interior of a base camp tent at night, a radio set on a crate with its dial lit, a hand resting beside it, everything else in darkness, wide cinematic 16:9 composition",
+          0.25
+        ]
+      ]
+    },
+    {
+      "role": "quiet",
+      "pause_after": 0.7,
+      "text": "Фигура эта старше Эвереста. Искуситель приходит к Христу не в первый день поста, а в сороковой, когда осталось потерпеть всего ничего. Мара приходит к Будде не тогда, когда тот уходит из дворца, и не в первый год под деревом, а в ночь перед самым прозрением. Ни разу - в начале. Всегда - у порога, где до конца рукой подать.",
+      "images": [
+        [
+          "A solitary robed figure seated on stony desert ground at dawn, immense empty wilderness stretching to both edges of a wide frame, long shadows, muted ochre tones, cinematic, wide cinematic 16:9 composition",
+          0.5
+        ],
+        [
+          "A seated meditating figure beneath the vast spreading canopy of an ancient fig tree at night, roots and branches filling the frame, faint moonlight through the leaves, contemplative, wide cinematic 16:9 composition",
+          0.5
+        ]
+      ]
+    },
+    {
+      "role": "turn",
+      "pause_after": 0.5,
+      "text": "Теперь вернитесь к тому числу. Контрольное время подводит не оттого, что гора тяжёлая. В восемь утра оно не стоит ничего: до вершины ещё день пути, разворачиваться незачем, и соблюсти его легко. Дорого оно ровно один раз за всё восхождение - в тот час, когда цель уже видна. Правило, которое проверяется только на последнем часе, это не страховка, а ловушка, и стоит она там же, где стоял искуситель. Но было и второе, и оно уже прозвучало. Хансена нельзя было развернуть, и упрямство тут ни при чём: он однажды отсюда уже разворачивался, ушёл вниз живым, и целый год потом знал, как близко это было. Того, кто ни разу не подходил близко, повернуть можно. Того, кто год назад повернул, - почти нельзя. Шри Чинмо́й говорит об этом так: сомнение бьёт сильнее всего у самого порога.",
+      "images": [
+        [
+          "Extreme close-up of a watch face in cold blue light, hands at two o'clock, frost forming across the glass, the rest of the frame dark, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A wide view from high on a mountain at mid-morning: the summit still far above, a clear untroubled sky, a climber small in the lower left with the whole route ahead, calm and safe, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "The same mountain view in late afternoon, the summit now close and lit gold, long shadows across the snow, the sky darkening at the right edge, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A single set of footprints in snow that stops and turns back on itself near the top of a ridge, seen wide, the summit just beyond, flat overcast light, wide cinematic 16:9 composition",
+          0.2
+        ],
+        [
+          "A weathered man in his forties in an unzipped down suit, oxygen mask hanging at his chest, looking upward off frame with exhausted determination, high altitude light, portrait placed left of centre, wide cinematic 16:9 composition",
+          0.2
+        ]
+      ]
+    },
+    {
+      "role": "return",
+      "pause_after": 0.6,
+      "text": "На вершине Эвереста в тот поздний час стоял человек, который наконец дошёл. Он потратил на это два года, все свои сбережения и две зимы разговоров о том, что в прошлый раз не хватило совсем чуть-чуть. Гора не сделала ему ничего особенного и не была к нему жестока. Она просто дала ему то, зачем он пришёл, и взяла за это обычную свою плату - время. Тела Дугласа Хансена не нашли: скорее всего, оно ушло по Кангшунгской стене в Тибет. От всей этой истории осталось одно число, то самое, которое на рассвете не стоило ровным счётом ничего, а к ночи стоило жизни и ему, и тому, кто его не развернул.",
+      "images": [
+        [
+          "A climber standing alone on the highest snow of a summit in low golden afternoon light, arms at his sides, curvature of the earth on the horizon behind, wide cinematic 16:9 composition",
+          0.34
+        ],
+        [
+          "An immense dark rock and ice face falling thousands of metres into cloud, no human trace anywhere, cold light, awe and emptiness, wide cinematic 16:9 composition",
+          0.33
+        ],
+        [
+          "A single empty wristwatch lying in wind-packed snow on a high bare ridge at dusk, its hands at two o'clock, nothing else in the frame but snow and darkening sky, wide cinematic 16:9 composition",
+          0.33
+        ]
+      ]
+    }
+  ]
+}

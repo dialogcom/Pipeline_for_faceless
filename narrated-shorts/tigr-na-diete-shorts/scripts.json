@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "slug": "koshka-krichala-dvoe-sutok",
+    "hook": "В воскресенье у аспиранта кончился кошачий корм. Кошка после этого кричала двое суток подряд.",
+    "vo": "Дело было в начале тридцатых годов, в лаборатории Брауновского университета. Магазины закрыты, купить негде. Аспирант поступил так, как подсказывала ему тогдашняя теория обучения: прогнал кошку через опыт, как всегда, и отнёс обратно в клетку без награды. Один раз, единственный. И кошка кричала после этого почти сорок восемь часов, не вечер и не ночь, а двое суток без перерыва.",
+    "ending": "Но голод проходит за вечер, а тут прошло двое суток. Что же тогда кричало? Объяснение нашлось не в Брауновском университете, а в Гарварде, у человека, который в это же самое время катал шарики. Об этом в следующей серии.",
+    "images": [
+      [
+        "A cat inside a wooden slatted laboratory puzzle box in a dim empty research room at night, tall vertical frame, vertical 9:16 composition",
+        0.28
+      ],
+      [
+        "A bare laboratory shelf holding a few empty tin containers, a closed cupboard beside it, cold light from a high window, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A long dark university corridor with one lit doorway far at the end, worn floor tiles, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "An empty metal feeding dish on the floor of a wire animal cage, straw scattered around it, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1930s black-and-white laboratory photograph, silver gelatin print, harsh single-source lighting, heavy film grain, slight emulsion scratches, full-bleed image filling the whole frame",
+    "image_negative": "colour photograph, saturated colours, modern digital render, CGI, 3d render, HDR, clean sharp digital detail, text, watermark, logo, white border, letterbox, recognisable face, portrait likeness"
+  },
+  {
+    "id": 2,
+    "slug": "chelovek-kotoryy-katal-shariki",
+    "hook": "Пока кошка кричала, в Гарварде человек катал шарики. Их выходило по сотне в день на каждую крысу.",
+    "vo": "Бёррес Скиннер подсмотрел у соседа-аптекаря машинку для пилюль и заказал себе такую же. Латунная рифлёная постель, на неё кладут длинный цилиндр густой пасты, сверху опускают такой же рифлёный нож и медленно катают взад-вперёд. Из цилиндра выходит примерно дюжина шариков. Сушить сутки. Работа, по его собственным словам, кропотливая и муторная. Восемь крыс съедали по сотне штук в день каждая. В одну субботу Скиннер пересчитал запас и вывел, что к половине одиннадцатого утра понедельника шариков не останется.",
+    "ending": "Запомните эту нехватку. Сейчас окажется, что она важнее всего остального опыта. Потому что Скиннер не пошёл катать шарики. Об этом в следующей серии.",
+    "images": [
+      [
+        "A brass grooved pill-rolling machine on a wooden workbench, a long cylinder of dark paste laid in the groove, tall vertical frame, vertical 9:16 composition",
+        0.28
+      ],
+      [
+        "Rows of small round pellets drying on a shallow metal tray under a bench lamp, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A rack of eight small wire laboratory cages side by side, rats faintly visible inside, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A pair of hands counting pellets into a glass jar on a bench, a paper wall calendar behind, no face visible, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1930s black-and-white laboratory photograph, silver gelatin print, harsh single-source lighting, heavy film grain, slight emulsion scratches, full-bleed image filling the whole frame",
+    "image_negative": "colour photograph, saturated colours, modern digital render, CGI, 3d render, HDR, clean sharp digital detail, text, watermark, logo, white border, letterbox, recognisable face, portrait likeness"
+  },
+  {
+    "id": 3,
+    "slug": "vopros-kotorogo-nikto-ne-zadaval",
+    "hook": "Он не пошёл катать шарики. Он сел и задал себе вопрос, которого до него не задавал никто.",
+    "vo": "А почему, собственно, награждать надо каждое нажатие? Ответа в его науке не было. Было только правило, простое и всем известное: подкреплять следует всё, что хочешь закрепить. Проверять его никому не приходило в голову. Скиннер решил давать еду не за нажатие, а раз в минуту, а все прочие нажатия оставлять пустыми. Результата вышло два, и он перечисляет их именно в таком порядке. Первое: запаса шариков стало хватать почти бесконечно. Второе: каждая крыса вышла на ровный постоянный темп и перестала останавливаться.",
+    "ending": "Дальше он перевернул своё же правило ещё раз и стал выдавать корм после определённого числа нажатий. И тогда крыса начала удерживать себя в одном и том же голоде сама. Круглые сутки, без надзирателя. Из этого выросла наука, которая объяснила вовсе не крыс. Об этом в следующей серии.",
+    "images": [
+      [
+        "A rat pressing a metal lever inside a plain operant conditioning chamber, food chute beside the lever, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A round laboratory wall clock with a sweeping second hand, plain white face, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A cumulative recorder drum with an ink pen tracing a rising stepped line on paper, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A thick stack of chart paper covered in rising staircase ink lines on a bench, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1930s black-and-white laboratory photograph, silver gelatin print, harsh single-source lighting, heavy film grain, slight emulsion scratches, full-bleed image filling the whole frame",
+    "image_negative": "colour photograph, saturated colours, modern digital render, CGI, 3d render, HDR, clean sharp digital detail, text, watermark, logo, white border, letterbox, recognisable face, portrait likeness"
+  },
+  {
+    "id": 4,
+    "slug": "dve-krysy-i-paradoks",
+    "hook": "Возьмите двух крыс. Одну кормили за каждое нажатие, честно. Вторую кормили иногда, как придётся.",
+    "vo": "Теперь отключите кормушку обеим разом. Первая бросит быстро: ей сразу видно, что мир переменился и правило больше не работает. Вторая будет жать долго, упрямо и зло. Не потому, что получила больше. Потому что получала не всегда. В тысяча девятьсот тридцать девятом году Ллойд Хамфрис измерил это на людях, и результат вышел настолько обратным здравому смыслу, что его так и назвали. Парадокс Хамфриса.",
+    "ending": "Если награда была всегда, её исчезновение видно сразу. Если иногда, то пустая полоса ничем не отличается от прежних пустых полос, и ждать можно бесконечно. Теперь понятно, на чём держатся игровые автоматы и лента, которую вы тянете вниз пальцем. Но при чём тут пост и срыв по субботам? Об этом в следующей серии.",
+    "images": [
+      [
+        "Two identical wire laboratory cages standing side by side on a bench, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A disconnected feeder mechanism with loose wires hanging from a cage wall, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A rat pressing a lever inside a chamber with an empty food chute and nothing falling, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A hand-drawn graph on graph paper showing two curves, one dropping steeply and one with a long flat tail, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1930s black-and-white laboratory photograph, silver gelatin print, harsh single-source lighting, heavy film grain, slight emulsion scratches, full-bleed image filling the whole frame",
+    "image_negative": "colour photograph, saturated colours, modern digital render, CGI, 3d render, HDR, clean sharp digital detail, text, watermark, logo, white border, letterbox, recognisable face, portrait likeness"
+  },
+  {
+    "id": 5,
+    "slug": "tigr-kotorogo-vy-kormili",
+    "hook": "Шри Чинмой говорит, что желание - это тигр, которого вы кормили всю жизнь.",
+    "vo": "Стоит перестать, и он бросается на вас во всех углах жизни. Скиннер добавляет к этому поправку, и она вот какая. Сила броска задана не тем, сколько вы ему дали, а тем, насколько нерегулярно вы давали. Вернитесь теперь к той кошке. Она кричала двое суток не оттого, что была голодна: голод проходит за вечер. Она кричала оттого, что до того воскресенья еда приходила к ней не по закону, а по милости. И у крика просто не было причины остановиться.",
+    "ending": "Отсюда и вся разница между тем, кто держит пост, и тем, кто срывается по субботам. Уступка - это не передышка. Это новая запись в расписании, и завтрашний рёв будет ровно такой длины, какую вы в него сегодня положили. Пустая кормушка молчит одинаково для всех. Считает не она. Считает тот, кто сидит перед ней и помнит, сколько раз она открывалась не вовремя.",
+    "images": [
+      [
+        "A tiger pacing behind the bars of a bare zoo enclosure, worn concrete floor, tall vertical frame, vertical 9:16 composition",
+        0.28
+      ],
+      [
+        "An empty metal feeding dish on bare concrete inside a barred enclosure, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A paper wall calendar with several days crossed out in ink, hanging on a plain wall, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A dark corridor of empty animal cages with one dish visible at the far end, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1930s black-and-white laboratory photograph, silver gelatin print, harsh single-source lighting, heavy film grain, slight emulsion scratches, full-bleed image filling the whole frame",
+    "image_negative": "colour photograph, saturated colours, modern digital render, CGI, 3d render, HDR, clean sharp digital detail, text, watermark, logo, white border, letterbox, recognisable face, portrait likeness"
+  }
+]

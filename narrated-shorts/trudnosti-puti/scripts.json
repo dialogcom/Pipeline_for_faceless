@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "slug": "malysh-i-vershina",
+    "intro": "Итак, сегодня - о первом шаге.",
+    "hook": "Почему духовный путь кажется таким сложным? Вы думали, что медитация принесет только покой, но вместо этого пришли новые испытания?",
+    "vo": "Ни один великий путь не бывает легким. Наша цель в духовной жизни - обрести безграничный покой, свет и блаженство. Но чем выше вершина, тем сложнее подъем. Подумайте об этом: когда мы были младенцами и только учились ползать, для нас было невероятно трудно просто встать и сделать один шаг. Но как только мы научились ходить, нам захотелось бегать и маршировать - и это снова стало вызовом. Духовный прогресс - это постоянное освоение новых высот. Вчера вы были довольны малым, но сегодня в вас пробудился внутренний зов к истинному величию. И этот зов требует усилий.",
+    "ending": "Но почему тогда сотни людей, начавших медитировать, в один голос говорят: «До этого я был счастлив, а теперь проблем стало только больше»? Что это - ошибка или тайный закон вселенной? Об этом - в следующей серии.",
+    "images": [
+      ["A person sitting cross-legged in lotus meditation pose in a softly lit room, warm gentle light, peaceful serene atmosphere, vertical composition", 0.20],
+      ["A baby taking wobbly first steps indoors, determined expression, soft warm light, symbolic of overcoming a first challenge, vertical composition", 0.18],
+      ["A child joyfully running and marching outdoors in a sunny field, energetic motion blur, vertical composition", 0.18],
+      ["A runner straining to breathe, climbing a steep fog-shrouded mountain trail, cold epic color grading, dramatic mist, intense effort, vertical composition", 0.24],
+      ["A faint golden light glowing at a misty mountain summit high above a climber, epic and mysterious, vertical composition", 0.20]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 2,
+    "slug": "stena-i-skripka",
+    "intro": "Итак, сегодня - о кирпичной стене.",
+    "hook": "«Я был счастлив, пока не начал медитировать! Теперь у меня больше проблем, чем когда-либо в жизни!» - почему это самая частая жалоба новичков?",
+    "vo": "Это великий парадокс духовного пути. Шри Чинмой объясняет: на самом деле у вас не стало больше проблем - они были в вас и раньше. Но до медитации ваше сознание было подобно глухой кирпичной стене. Вы были слишком нечувствительны и неосознанны, чтобы замечать удары судьбы и собственные внутренние яды. Духовная практика превращает эту грубую стену в чувствительную струну скрипки. Теперь малейшая мысль - добрая или злая, божественная или темная - мгновенно отзывается вибрацией во всем вашем существе. Вы просто стали осознанными.",
+    "ending": "Мы обрели чувствительность, и это прекрасно. Но почему тогда наши собственные старые желания вдруг поднимают яростный бунт и буквально набрасываются на нас? Смотрите в третьем эпизоде.",
+    "images": [
+      ["A rough weathered stone brick wall in darkness, stones and arrows flying toward it, dramatic lighting, vertical composition", 0.22],
+      ["Close-up of stones bouncing harmlessly off an unyielding brick wall, dust particles in the air, dramatic lighting, vertical composition", 0.18],
+      ["A flash of bright white light cracking through a stone wall, dramatic transformation moment, vertical composition", 0.16],
+      ["An elegant violin emerging from dissolving light, glowing softly in darkness, dreamlike atmosphere, vertical composition", 0.20],
+      ["Close-up of a bow gently touching a violin string, rippling circles of golden light emanating outward, dreamlike atmosphere, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 3,
+    "slug": "tigr-na-diete",
+    "intro": "Итак, сегодня - про тигра желаний.",
+    "hook": "Представьте, что вы годами кормили дикого тигра мясом, а затем внезапно решили посадить его на строгую вегетарианскую диету. Как думаете, что он сделает?",
+    "vo": "Ваши желания - это свирепый тигр, которого вы кормили и баловали всю свою жизнь. Но когда вы вступаете на духовный путь, вы осознаете опасность этого хищника и решаете больше его не кормить. И тогда разочарованные желания приходят в неописуемую ярость! Они объединяются в тайный союз и нападают на вас во всех сферах жизни: создают проблемы в семье, провоцируют ссоры с друзьями, приносят неудачи на работе и эмоциональные срывы. Это не новые проблемы - это старый тигр бьется в клетке вашего ума, требуя свою порцию.",
+    "ending": "Тигр желаний невероятно опасен снаружи. Но его самое коварное оружие проникает в саму вашу медитацию, маскируясь под невинные мысли. Как он крадет ваш покой изнутри? Об этом - в следующей серии.",
+    "images": [
+      ["Wide shot of a dark cage in shadow, a massive tiger pacing restlessly, eyes glowing amber, dramatic chiaroscuro lighting, vertical composition", 0.22],
+      ["Close-up of a snarling tiger's face, amber eyes blazing with fury, dramatic lighting, vertical composition", 0.18],
+      ["Cage bars vibrating and creaking under a tiger's powerful strikes, dust falling, dramatic lighting, vertical composition", 0.18],
+      ["Swirling ghostly fragments of everyday thoughts and worries spiraling around a dark cage like a vortex, surreal, vertical composition", 0.20],
+      ["A tiger roaring furiously, straining against cage bars, dramatic chiaroscuro lighting, vertical composition", 0.22]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 4,
+    "slug": "lovushka-sravneniya",
+    "intro": "Итак, сегодня - о ловушке сравнения.",
+    "hook": "Самый опасный враг вашей медитации - это не шум дрели за стеной у соседа. Это тихий, вкрадчивый шепот вашего собственного ума.",
+    "vo": "Когда вы закрываете глаза в надежде обрести Свет и Покой, тигр желаний пробирается в ваш ум с черного хода. Он начинает тихо нашептывать: «Посмотри на того человека, он невероятно богат. А этот искатель рядом - так красив и успешен. У них есть то, чего нет у тебя». И вместо молитвы о Мире и Блаженстве, вы начинаете мысленно завидовать и сравнивать. Ваш ум заполняется чужими жизнями, превращая священный алтарь вашего сердца в шумный, грязный рынок.",
+    "ending": "Этот ментальный шум крадет все плоды нашей практики. Но как распознать в этих мыслях не просто случайные помехи, а настоящего, профессионального вора? Узнайте прямо сейчас в следующей серии.",
+    "images": [
+      ["A seeker sitting in meditation surrounded by a soft golden glow, peaceful and serene, vertical composition", 0.20],
+      ["A ghostly neon-outlined silhouette of a luxury car materializing out of darkness beside a meditating figure, surreal, vertical composition", 0.18],
+      ["A ghostly neon-outlined silhouette of a glamorous confident face glowing beside a meditating figure, surreal and unsettling, vertical composition", 0.18],
+      ["A ghostly neon-outlined silhouette of stacks of gold coins glowing beside a meditating figure, surreal, vertical composition", 0.18],
+      ["A meditating figure's golden aura dimming and turning into grey smoke, dramatic transformation, vertical composition", 0.26]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 5,
+    "slug": "vor-v-dome-pokoya",
+    "intro": "Итак, сегодня - про вора в уме.",
+    "hook": "Если в ваш дом среди ночи заберется грабитель, вы ведь не станете заваривать ему чай и приглашать присесть? Почему же вы позволяете плохим мыслям оставаться в вашей голове?",
+    "vo": "Каждая негативная мысль - будь то страх, сомнение, ревность, лицемерие или гордыня - это вор. Шри Чинмой предлагает мощную технику: относитесь к негативу как к реальному грабителю, который пришел украсть ваше внутреннее богатство, накопленное часами искренней медитации. Вор не имеет права находиться в вашем доме. Не спорьте с ним, не пытайтесь его переубедить или понять. С абсолютной уверенностью и силой хозяина прогоняйте его прочь из своего ума! Силой вашей души зажгите свет любви, и тьма исчезнет.",
+    "ending": "Изгнать вора страха или зависти возможно. Но что делать, если к дверям вашего сознания подошел самый страшный, колоссальный враг - Сомнение? Оружие, способное уничтожить даже 20 лет упорного труда... Об этом - в следующей серии.",
+    "images": [
+      ["A cozy warm-lit room with a crystal chest full of glowing gemstones on a table, peaceful atmosphere, vertical composition", 0.20],
+      ["A dark shadowy silhouette of a thief silently climbing through a window at night, tense atmosphere, vertical composition", 0.20],
+      ["Close-up of a thief's shadow creeping closer to a glowing crystal chest, suspenseful, vertical composition", 0.18],
+      ["A figure suddenly igniting a blazing torch of blinding white light in a dark room, dramatic high-contrast lighting, vertical composition", 0.20],
+      ["A shadowy thief recoiling in fear and fleeing through a window from blinding white light, dramatic motion, vertical composition", 0.22]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 6,
+    "slug": "posledniy-vulkan",
+    "intro": "Итак, сегодня - про вулкан сомнения.",
+    "hook": "Можно медитировать двадцать лет, вести аскетичную жизнь в горах, пережить тысячи глубоких опытов... и в один миг потерять абсолютно всё. Как это возможно?",
+    "vo": "Мастер Шри Чинмой раскрывает великую тайну: перед самым порогом окончательного осознания Бога, искатель подвергается самой свирепой, концентрированной атаке сил сомнения. Это последнее испытание. К Иисусу Христу в пустыне приходил Сатана, к Гаутаме Будде под деревом Бодхи - искушающая Мара. Накануне великого Света сомнение взрывается внутри искателя, как спящий вулкан. Если сосуд искателя не очищен до конца, это извержение снесет все его многолетние духовные достижения.",
+    "ending": "Натиск вулкана сомнения кажется непреодолимым. Но неужели нет спасения от этого огненного шторма? Как превратить разрушительное падение в восхождение, которое спасет вашу душу? Ответ ждет вас в следующей серии.",
+    "images": [
+      ["A hooded traveler climbing a narrow icy mountain path, epic and majestic, vertical composition", 0.20],
+      ["Close-up of a traveler's hand reaching toward a glowing golden summit just out of reach, epic, vertical composition", 0.18],
+      ["Deep cracks glowing with fire beginning to split open in the ground below a mountain climber, ominous, vertical composition", 0.18],
+      ["A colossal eruption of fire, lava, and black choking smoke bursting from an abyss, the sky turning crimson red, apocalyptic, vertical composition", 0.22],
+      ["A traveler engulfed in swirling smoke and fiery light, a golden summit obscured by chaos, apocalyptic, vertical composition", 0.22]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 7,
+    "slug": "spiral-a-ne-gorki",
+    "intro": "Итак, сегодня - про спираль пути.",
+    "hook": "Ваша духовная жизнь напоминает американские горки? Сегодня вы чувствуете крылья за спиной, а завтра падаете в глубокую депрессию и апатию?",
+    "vo": "Когда ученик пожаловался Шри Чинмою на эти мучительные качели, Мастер рассмеялся и сказал: «Если бы это прекратилось, было бы неинтересно! Но замените термин «американские горки» на другое слово - «спираль»». Каждый раз, когда вы видите, что опускаетесь очень низко, не паникуйте. Помните: это не тупик, а нижний виток спирали, за которым неизбежно последует подъем на новую высоту. Главное - не задерживаться внизу, напоминая себе, что духовная пища там пресная и невкусная.",
+    "ending": "Спиральный путь требует колоссального терпения. Но как удержать равновесие на этой спирали, если мы искренне даем себе обещания каждое утро, а к вечеру... полностью их разрушаем? Смотрите в следующем эпизоде.",
+    "images": [
+      ["A roller coaster cart speeding down a steep track into a dark abyss, motion blur, dramatic and chaotic, vertical composition", 0.22],
+      ["A roller coaster cart plunging through swirling darkness, disorienting and chaotic, vertical composition", 0.16],
+      ["Steel roller coaster rails glowing and beginning to curve upward, a transformation from chaos to order, vertical composition", 0.18],
+      ["Roller coaster rails smoothly forming into a glowing golden spiral rising high into a starry cosmos, vertical composition", 0.20],
+      ["A roller coaster cart slowing and ascending gently along a golden spiral toward distant stars, serene and majestic, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 8,
+    "slug": "razbitye-obeschaniya",
+    "intro": "Итак, сегодня - о разбитых обещаниях.",
+    "hook": "Нам чертовски легко оставаться честными со своими друзьями, коллегами или соседями. Но пробовали ли вы быть до конца честными с самими собой?",
+    "vo": "Великая трагедия искателя заключается в скрытом самообмане. Рано утром, во время медитации, мы даем священное обещание своей душе и Богу: «Сегодня я буду чист. Я не буду злиться, сомневаться, завидовать и поддаваться тревоге». Но стоит нам выйти на улицу и окунуться в суету внешнего мира, как мы сдаемся без боя при первом же испытании. Все наши утренние обещания разбиты вдребезги. Мы обманываем себя изо дня в день, не выполняя обязательств перед собственной душой.",
+    "ending": "Мы нарушаем эти обещания каждый день. Но кто может помочь нам разорвать этот замкнутый круг слабости, когда наша собственная человеческая воля раз за разом терпит крах? Разгадка - в следующей серии.",
+    "images": [
+      ["A person meditating peacefully at dawn, surrounded by a calm protective field of soft neon light, quiet room, tranquil atmosphere, vertical composition", 0.20],
+      ["Close-up of a glowing protective neon light field shimmering gently around a meditating person, tranquil, vertical composition", 0.16],
+      ["A busy daytime city street full of crowds, noise, and stress, dynamic composition, vertical composition", 0.20],
+      ["Close-up of a person's face tense with frustration amid a chaotic crowd, dramatic lighting, vertical composition", 0.18],
+      ["A person shouting in frustration as their glowing protective light field shatters like thin cracking glass, dramatic and dynamic, vertical composition", 0.26]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 9,
+    "slug": "most-nad-bezdnoy",
+    "intro": "Итак, сегодня - про мост над бездной.",
+    "hook": "Что если на самом опасном, скользком и крутом подъеме вашей жизни вам больше не придется карабкаться в одиночку?",
+    "vo": "Шри Чинмой объясняет: истинный духовный Учитель - это вечный, нерушимый мост между вашим ищущим сердцем и Божественным Источником. Мастер готов проводить сотни встреч, отдавая всю свою заботу и защиту каждому ученику. Когда вы находитесь в беспокойном уме, вы не чувствуете его присутствия. Но стоит вам искренне спуститься в свое сердце, в обитель души - и вы мгновенно почувствуете его теплое, защищающее присутствие, ведущее вас сквозь тьму.",
+    "ending": "Этот мост надежен и крепок. Но какие мистические обязательства связывают Учителя и ученика на самом деле? Что происходит в тот момент, когда Учитель соглашается вести душу? Ответ вас поразит.",
+    "images": [
+      ["A lone hooded traveler standing at the edge of a vast chasm shrouded in thick black fog, ominous and isolated, vertical composition", 0.22],
+      ["Thick black fog beginning to glow faintly from within, mysterious and quiet transformation, vertical composition", 0.18],
+      ["A majestic glowing figure of a spiritual Master emerging from swirling fog, awe-inspiring, vertical composition", 0.18],
+      ["A spiritual Master extending a hand toward a traveler across a chasm, radiant light forming, vertical composition", 0.18],
+      ["A radiant golden bridge of light spanning a vast chasm from a glowing Master to the other side, awe-inspiring, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 10,
+    "slug": "tainstvo-iniciacii",
+    "intro": "Итак, сегодня - о тайне посвящения.",
+    "hook": "Посвящение у настоящего Мастера - это не красивый формальный ритуал и не раздача фабричных таблеток. Это мистический союз душ на вечность.",
+    "vo": "На санскрите посвящение называется «Дикша» - взаимное предложение себя. В этот миг Мастер вдыхает часть своего собственного жизненного дыхания в ученика и дает торжественный обет Богу: «Я не оставлю эту душу, пока не приведу ее к Высшей Вершине». В ответ ученик обещает служить Источнику. Но самое потрясающее происходит на невидимом плане: в момент инициации истинный Мастер физически забирает в себя все несовершенства, страхи и грехи ученика из этой и всех прошлых жизней.",
+    "ending": "Мастер добровольно забирает вековую тьму ученика... Но какую ужасающую цену ему приходится платить за эту божественную кражу? Почему после инициации Учителя часто тяжело заболевают? Об этом - в следующей серии.",
+    "images": [
+      ["A spiritual Master and a disciple sitting cross-legged facing each other in meditation, candlelit sacred atmosphere, vertical composition", 0.22],
+      ["Close-up of a warm golden beam of light flowing from a Master's chest toward a disciple's heart, mystical, vertical composition", 0.18],
+      ["Close-up of a disciple's face glowing softly as golden light reaches his heart, serene, vertical composition", 0.18],
+      ["Dark grey wisps of energy rising from a disciple's body, dissolving into the air, mystical atmosphere, vertical composition", 0.18],
+      ["A Master's glowing hands absorbing dark grey wisps of energy, sacred and mysterious, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 11,
+    "slug": "cena-sostradaniya",
+    "intro": "Итак, сегодня - о цене сострадания.",
+    "hook": "Вы знали, что истинный духовный Учитель может тяжело заболеть сразу после того, как примет всего одного нового ученика? Какую цену он платит за вашу свободу?",
+    "vo": "Шри Чинмой раскрывает шокирующую правду о духовном мире. Некоторые очень искренние Мастера посвящают всего одного ученика в месяц. И сразу после этого они тяжело заболевают и переносят мучительные физические страдания. Они в буквальном смысле берут на свои плечи закон вашей кармы. Когда любящий отец видит, что его ребенок совершил ужасную ошибку и заслуживает сурового наказания, он добровольно принимает этот удар на себя, чтобы спасти сына. Это и есть истинный Учитель. Он платит своим физическим телом за вашу духовную свободу.",
+    "ending": "Но если Учитель забирает наше наказание и страдания, как же мы учимся на своих ошибках? Неужели эта жертва лишает нас духовных уроков? Разгадка потрясет вас в финальном эпизоде.",
+    "images": [
+      ["A spiritual Master sitting in deep meditation with eyes closed, serene, soft candlelight, vertical composition", 0.20],
+      ["A heavy dark stormy weight beginning to descend onto a meditating Master's shoulders, ominous atmosphere, vertical composition", 0.18],
+      ["Close-up of a Master's face showing quiet physical pain, furrowed brow, dramatic chiaroscuro lighting, vertical composition", 0.20],
+      ["A dark stormy weight fully settled on a Master's shoulders, heavy and oppressive, dramatic lighting, vertical composition", 0.18],
+      ["A Master's face breaking into an infinitely loving compassionate smile through quiet pain, warm light emerging, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  },
+  {
+    "id": 12,
+    "slug": "velikiy-urok",
+    "intro": "Итак, сегодня - о великом уроке.",
+    "hook": "Каким образом физическое страдание одного человека способно мгновенно исцелить и духовно пробудить сердца тысяч других людей?",
+    "vo": "Великие Учителя обладают способностью легко рассеивать чужую карму в Космическом Сознании. Но иногда они позволяют ученикам увидеть свою боль. И когда ученик видит физическое страдание своего любимого Учителя, его эгоистичное сердце, полное сомнений и амбиций, мгновенно разбивается вдребезги от переполняющего чувства единства и любви. В этот миг ученик проживает глубочайшее раскаяние и совершает квантовый скачок в осознанности. Он понимает цену каждого своего шага. Это и есть величайший урок сострадания.",
+    "ending": "Духовный путь полон ловушек, тигров желаний и вулканов сомнений, но теперь вы знаете его главную тайну - силу безусловной любви и жертвенности. Готовы ли вы сделать свой первый шаг по этой великой восходящей спирали?",
+    "images": [
+      ["Extreme close-up of a disciple's eyes filled with tears of sincere realization, emotional and intimate, vertical composition", 0.20],
+      ["Close-up of a disciple's face softening with deep emotion, tears falling, intimate, vertical composition", 0.16],
+      ["A glowing heart beginning to crack like fractured glass, soft pink and gold light seeping through, vertical composition", 0.18],
+      ["A glowing heart cracking fully open, releasing a colossal ocean of pink and gold light and love, radiant, vertical composition", 0.22],
+      ["A spiritual Master opening his eyes and tenderly blessing the scene, warm radiant atmosphere, vertical composition", 0.24]
+    ],
+    "voice": {"voice_id": "Nikolai", "model": "inworld-tts-1.5-max", "temperature": 1.1, "speaking_rate": 1.0}
+  }
+]
