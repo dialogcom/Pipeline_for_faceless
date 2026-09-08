@@ -1,0 +1,29 @@
+# secrets — never commit these
+.env
+.env.*
+!.env.example
+tools/client_secret.json
+tools/youtube_token.json
+
+# dependencies / build output
+node_modules/
+remotion/out/
+__pycache__/
+*.pyc
+venv/
+
+# heavy regenerable per-short artifacts:
+shorts/*/voice/
+shorts/*/output/
+ai-shorts/*/voice/
+ai-shorts/*/output/
+vox-shorts/*/voice/
+vox-shorts/*/output/
+narrated-shorts/*/voice/
+narrated-shorts/*/output/
+retellings/*/voice/
+retellings/*/output/
+
+# temp
+tools/.tmp_uploads/
+.DS_Store

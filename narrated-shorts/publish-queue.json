@@ -1,0 +1,51 @@
+{
+  "series": "posledniy-vulkan-shorts",
+  "series_title": "Последний вулкан",
+  "queue": [
+    {
+      "episode": 1,
+      "title": "Почтальон, который дошёл",
+      "file": "output/short-01-pochtalon-kotoryy-doshel.mp4",
+      "duration": "60.5s",
+      "status": "ready",
+      "publish_date": "2026-09-09",
+      "platform": "YouTube Shorts"
+    },
+    {
+      "episode": 2,
+      "title": "Число, на котором держалось имя",
+      "file": "output/short-02-chislo-na-kotorom-derzhalos-imya.mp4",
+      "duration": "58.2s",
+      "status": "ready",
+      "publish_date": "2026-09-10",
+      "platform": "YouTube Shorts"
+    },
+    {
+      "episode": 3,
+      "title": "Правило было под рукой — трижды",
+      "file": "output/short-03-pravilo-bylo-pod-rukoy-trizhdy.mp4",
+      "duration": "57.8s",
+      "status": "ready",
+      "publish_date": "2026-09-11",
+      "platform": "YouTube Shorts"
+    },
+    {
+      "episode": 4,
+      "title": "Искуситель приходит на сороковой",
+      "file": "output/short-04-iskusitel-prihodit-na-sorokovoy.mp4",
+      "duration": "56s",
+      "status": "ready",
+      "publish_date": "2026-09-12",
+      "platform": "YouTube Shorts"
+    },
+    {
+      "episode": 5,
+      "title": "Что стоило это число?",
+      "file": "output/short-05-chto-stoilo-eto-chislo.mp4",
+      "duration": "59.7s",
+      "status": "ready",
+      "publish_date": "2026-09-13",
+      "platform": "YouTube Shorts"
+    }
+  ]
+}
