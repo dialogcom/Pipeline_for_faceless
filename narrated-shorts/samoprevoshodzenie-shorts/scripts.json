@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "slug": "monah-i-ultramarafon",
+    "hook": "Монах основал гонку, которую не может закончить даже марафонец. 3100 миль. 52 дня. 18 часов бега каждый день.",
+    "vo": "В тысяча девятьсот девяносто седьмом году Шри Чинмой основал самую длинную сертифицированную гонку в мире. Три тысячи сто миль по кругу в Квинсе, Нью-Йорк, участники бегут восемнадцать часов в сутки пятьдесят два дня подряд — девяносто шесть километров каждый день. Это не пытка, говорит он, а медитация в движении. Шри Чинмой сам бегал марафоны в шестьдесят семь лет и говорил: предел — это не стена, а дверь. Ум сдаётся первым, но тело может больше, а дух — бесконечен. Гонка проверяет не ноги, а то, что за ними стоит, и когда боль становится невыносимой, остаётся одно — перестать бороться и позволить бегу течь через тебя. Вот парадокс: только тот, кто перестаёт гнаться за финишем, доходит до него.",
+    "ending": "Следующий ролик — о человеке, который установил двести мировых рекордов. Его секрет не в тренировках.",
+    "images": [
+      [
+        "A solitary runner on an empty track at dawn, golden light streaming through morning mist, long shadows stretching across the asphalt, contemplative mood, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of worn running shoes on pavement, scuffed and weathered, golden hour light from the side, shallow depth of field, sense of journey and endurance, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An elderly monk with white beard running slowly through autumn forest path, peaceful expression, golden leaves falling around him, warm backlight, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A long empty road stretching to the horizon in golden sunset light, single figure walking in the distance, sense of infinite journey, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Предел — это не стена.\nЭто дверь.",
+      "source": "Шри Чинмой",
+      "url": "https://ru.srichinmoylibrary.com"
+    }
+  }
+]

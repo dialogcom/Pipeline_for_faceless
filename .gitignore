@@ -27,3 +27,5 @@ retellings/*/output/
 # temp
 tools/.tmp_uploads/
 .DS_Store
+ffmpeg
+ffmpeg.zip

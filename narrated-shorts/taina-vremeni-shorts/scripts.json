@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "slug": "killing-time",
+    "hook": "Каждый день вы убиваете время. А время убивает вас — каждый день.",
+    "vo": "Мы говорим «убить время» — и не замечаем, что произносим древнее заклинание. В аэропорту, в очереди, в пробке — мы режем секунды на куски, скроллим, перелистываем, проглатываем. Физик Альберт писал: время — самая демократичная валюта во вселенной. Каждый получает ровно 86 400 секунд в сутки. Но вот парадокс: тот, кто пытается сэкономить время, тратит его больше всех. Планировщики, оптимизаторы, люди с таймерами на телефоне — они сжигают часы, чтобы выиграть минуты. Шри Чинмой увидел это зеркало: время — единственное, что человек пытается убить, и единственное, что в итоге убивает его. Не старость. Не болезнь. Само убегание от времени.",
+    "ending": "А что, если перестать убивать — и начать слушать? Тогда секунда раскрывается, и внутри неё — целая вечность.",
+    "images": [
+      [
+        "A man sitting alone in a vast empty train station, looking at his wristwatch, the clock hands spinning wildly, warm golden light streaming through high arched windows, dust motes floating in shafts of light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of hands tearing apart a paper clock, pieces scattering in mid-air like dead leaves, shallow depth of field, wooden table surface, soft directional light from the left, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An hourglass lying on its side on sand, sand spilling out horizontally, a single wildflower growing from the crack in the glass, desert landscape blurred in background, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person standing still in a crowded city street, everyone around them blurred in motion, the person has their eyes closed and face turned upward, golden sunset light on their face, peaceful expression, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Время — это то, что человек\nвсегда пытается убить,\nно кончается это\nубийством самого человека.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "sekunda-vechnosti",
+    "hook": "Есть секунда, в которую умещается вся жизнь. А есть секунды, пустые, как высохший колодец, - и они тянутся годами.",
+    "vo": "Физика знает: секунда - это 9 миллиардов колебаний цезиевых атомов. Но душа ведёт свой счёт. Секунда, когда отец впервые взял ребёнка на руки. Секунда перед ударом, когда время сгущается и замирает. Секунда, когда вы сказали «да» - или «прощай». Часы не различают их. Для маятника все они равны. Для живого сердца - нет. Шри Чинмой различал два времени: хронологическое - то, что тикает на стене, и психологическое - то, что бьётся внутри. Первое движется равномерно, как поезд по расписанию. Второе прыгает, поётся, молчит - и в одной своей ноте вмещает то, на что у первого не хватило бы века. Вот правда, которую прячет каждый вдох: вечность - это не много лет. Вечность означает одно мгновение, прожитое до дна.",
+    "ending": "Следующий ролик - о том, почему время то бежит, то ползёт, и кто решает, с какой скоростью.",
+    "images": [
+      [
+        "Extreme close-up of a human eye, the iris reflecting an old clock face with golden hands, a single tear catching light on the lower lash line, warm amber light from the side, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A single candle flame in a dark room, the flame stretched tall as if blown by time itself, melted wax dripping like a slow clock hand, wooden table surface, chiaroscuro lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A solitary figure standing in a shaft of morning light inside an empty stone cathedral, dust motes suspended motionless in the beam, hands open at the sides, head slightly bowed, vast arched windows behind, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Sunrise breaking over a dark still sea seen from a low shore, one thin line of gold separating water from sky, a single small boat at anchor in the foreground, long exposure softening the waves into mist, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Одна секунда присутствия\nвесит больше,\nчем год механической жизни.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "subektivnye-chasy",
+    "hook": "Вы замечали, как час с любимым человеком пролетает за одно мгновение, а час в очереди растягивается в бесконечность, будто часы врут или, точнее, говорят свою правду, а не нашу.",
+    "vo": "Психологи называют это субъективным временем - внутренней скоростью, с которой сознание проживает каждую секунду. Когда мозг захвачен новым, он записывает больше кадров на единицу времени, и потом кажется, что событие длилось дольше. Рутина, напротив, схлопывает дни в один длинный смазанный кадр: неделя отпуска сменяется другой, а оглянешься - и год прошёл как один вечер. Шри Чинмой шёл дальше психологии и говорил, что не только восприятие, но и само качество внимания определяет, сколько времени вмещает момент. Скучающий ум тянет секунду, как жвачку, а вовлечённое сердце проживает её так полно, что она становится целой жизнью. Вот почему дети помнят каждое лето как эпоху, а взрослые не помнят, как пролетел декабрь. Время не ускоряется и не замедляется - оно становится прозрачным или плотным в зависимости от того, насколько мы в нём присутствуем.",
+    "ending": "Следующий ролик - о самом парадоксальном отношении человека со временем: мы его одновременно и боимся, и не замечаем, пока оно не кончится.",
+    "images": [
+      [
+        "A vintage pocket watch lying open on a worn wooden table, but instead of clock hands it has a compass needle pointing inward, golden afternoon light from the side casting long shadows, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A child running barefoot through a sunlit meadow of wildflowers, motion blur on the edges of the frame, golden hour backlight creating a halo around the figure, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A long empty corridor with repeating identical wooden doors receding into deep shadow, only one door slightly ajar with warm light spilling through, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person sitting by a tall window in golden sunset light, one hand resting gently on the glass, the city outside blurred and indistinct, contemplative stillness, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Не количество прожитых лет\nделает человека мудрым,\nа глубина прожитого мгновения.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "poka-ne-konchitsya",
+    "hook": "Мы живём так, будто впереди бесконечность, и боимся даже подумать о том, что она однажды закончится, и только один короткий миг ясности - болезнь, потеря, внезапная тишина - способен расставить всё по местам.",
+    "vo": "Экзистенциалисты называли это пограничной ситуацией - момент, когда привычная броня повседневности трескается и человек вдруг понимает, что дни сочтены. Диагноз, потеря, внезапная близость конца. И парадокс в том, что именно это знание делает жизнь живой. Шри Чинмой говорил, что мысль о смерти - не пугало, а учитель: она не отнимает у нас время, а возвращает его нам. Пока мы уверены, что впереди ещё всё, мы откладываем главное на потом. Потом наступает когда-нибудь, которое никогда не наступает. Но стоит осознать, что каждый вдох может быть последним, как обычные вещи - утренний свет, голос близкого человека, запах хлеба - обретают вес и значение, которых они были лишены в бесконечном завтра. В этом смысле смерть не отменяет жизнь, а делает её подлинной.",
+    "ending": "Следующий ролик - о том, что происходит, когда человек перестаёт бороться со временем и начинает с ним дружить.",
+    "images": [
+      [
+        "An empty wooden chair by a tall window in golden evening light, curtains gently moving in a soft breeze, a half-finished cup of tea on the windowsill, dust motes floating in the warm light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person's reflection in a rain-streaked window at night, city lights blurred in the background, contemplative expression, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of weathered hands holding a warm loaf of fresh bread, morning light streaming from the side, flour dust particles visible in the air, intimate and tender, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A solitary figure walking down a path through golden autumn forest, leaves suspended mid-fall around them, warm backlight filtering through the trees, peaceful stride, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Память о смерти\nне отнимает жизнь,\nа возвращает её нам.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "druzhba-so-vremenem",
+    "hook": "Мы столько лет воюем со временем - торопимся, опаздываем, догоняем, и даже не замечаем, как эта война делает нас уставшими и пустыми.",
+    "vo": "Шри Чинмой говорил, что есть момент, когда человек перестаёт бороться со временем и начинает с ним дружить, и в этот момент происходит нечто странное: время перестает быть врагом. Оно больше не давит, не торопит, не уходит, а становится пространством, в котором можно дышать. Психологи называют это принятием - состоянием, когда исчезает внутреннее напряжение между желаемым и имеющимся, но Шри Чинмой шёл дальше и говорил, что это не просто психологический трюк, а настоящая встреча с вечностью здесь и сейчас. Когда вы перестаёте считать секунды, они перестают считать вас, и когда вы перестаёте убегать от времени, оно раскрывается, и внутри каждого мгновения оказывается целая жизнь. Вот парадокс: только тот, кто перестаёт гнаться за временем, начинает по-настоящему жить в нём.",
+    "ending": "Следующий ролик - о том, как одно мгновение может вместить целую жизнь и изменить её навсегда.",
+    "images": [
+      [
+        "A person sitting peacefully on a wooden bench in an autumn park, golden afternoon light filtering through yellow leaves, relaxed posture with hands resting on knees, contemplative calm, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of relaxed hands resting on linen fabric, fingers slightly curled, soft golden light from the side, shallow depth of field, sense of surrender and peace, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Sunbeams streaming through tall trees in a misty forest, golden light rays visible in the atmospheric haze, dust motes floating, ethereal and peaceful, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person walking slowly along a path through golden autumn meadow, tall grass swaying gently, warm backlight creating a halo effect, peaceful stride with slight smile, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Только тот, кто перестаёт\nгнаться за временем,\nначинает жить в нём.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "vremya-i-pamyat",
+    "hook": "Прошлое не уходит. Оно живёт внутри нас - в каждом запахе, в каждой мелодии, в случайном свете на стене, и однажды возвращает нас в тот самый день, который мы считали забытым.",
+    "vo": "Психологи знают: память не воспроизводит событие, а заново его создаёт. Каждый раз, когда вы вспоминаете, вы не достаёте файл из архива - вы пишете его заново, со всеми сегодняшними красками и тенями. Вот почему воспоминание тридцатилетней давности может ударить сильнее, чем оно било тогда. Шри Чинмой шёл дальше механики памяти и говорил, что прошлое - это не груз, а учитель, что каждый прожитый день оставляет в нас семя, и от нас зависит, станет ли это семя тернием или цветком. Время не стирает пережитое - оно превращает его в мудрость, если только мы не отказываемся смотреть назад с открытым сердцем. Вот парадокс памяти: чем глубже вы прожили момент, тем дольше он живёт в вас, и чем больше таких моментов, тем богаче ваша вечность.",
+    "ending": "Следующий ролик - о самом трудном испытании временем: об ожидании, которое либо разрушает, либо преображает.",
+    "images": [
+      [
+        "A faded sepia photograph of a smiling family lying on a worn wooden table, edges curling with age, a single beam of afternoon light illuminating one face, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of weathered hands gently holding an old leather-bound journal, pages yellowed with time, ink faded but still legible, soft side lighting revealing texture, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A solitary figure standing before a rain-streaked window, reflection showing both present face and ghostly image of younger self, contemplative mood, warm interior light mixing with cool exterior, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An ancient oak tree in autumn, golden leaves falling around it, some leaves caught in branches like preserved memories, warm backlight filtering through the canopy, peaceful and timeless, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Прошлое не уходит -\nоно становится нами,\nесли мы не боимся\nсмотреть назад с открытым сердцем.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "vremya-i-ozhidanie",
+    "hook": "Ожидание - самая странная комната во вселенной. Вы входите в неё ребёнком, а выходите стариком, и не помните, как оказались внутри.",
+    "vo": "Мы ждём всю жизнь: выходных, отпуска, пятницы, подходящего момента, пока не обнаруживаем, что жизнь прошла в зале ожидания. Психологи называют это отложенной жизнью - состоянием, когда человек соглашается быть счастливым не сейчас, а потом, когда всё совпадёт. Но Шри Чинмой видел в ожидании не ловушку, а возможность: каждый момент ожидания - это приглашение присутствовать полностью, а не убегать в будущее. Терпение - не страдание, а искусство оставаться в настоящем, пока будущее формируется само. Вот что отделяет мудреца от нетерпеливого: первый знает, что время работает даже в тишине ожидания, второй пытается ускорить то, что должно созреть. И иногда самое мудрое, что можно сделать со временем, - это позволить ему делать свою работу.",
+    "ending": "Следующий ролик - о ритмах, которые управляют временем глубже, чем любые часы.",
+    "images": [
+      [
+        "A lone figure sitting on a wooden bench at an empty train station, looking down the tracks that disappear into mist, warm golden evening light casting long shadows, sense of patient waiting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of hands holding a small seedling in rich soil, waiting for it to grow, morning light streaming from the side, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An hourglass with sand flowing slowly in a sunlit room, dust motes floating around it, warm golden light illuminating the glass, sense of time passing peacefully, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A single candle burning steadily in a dark room, flame perfectly still, pool of warm light on the table around it, sense of quiet presence and patience, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Терпение - не страдание,\nа искусство оставаться\nв настоящем, пока будущее\nформируется само.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "vremya-i-ritm",
+    "hook": "Время не линейно, как стрелка часов. Оно циклично, как дыхание, как приливы, как времена года, и тот, кто пытается плыть против течения, устаёт, а тот, кто ловит ритм, - танцует.",
+    "vo": "Физика знает: Вселенная пульсирует. Звёзды рождаются и умирают, галактики вращаются, электроны колеблются. Биология добавляет: каждое живое существо живёт в ритме - сердцебиение, дыхание, циклы сна и бодрствования. Психология подтверждает: настроение, энергия, внимание - всё поднимается и опускается волнами. Шри Чинмой шёл дальше и говорил, что у самого времени есть ритм - моменты расширения и моменты сжатия, и мудрость в том, чтобы не бороться с этим ритмом, а учиться ему. Есть время действовать и время быть, время говорить и время молчать, время собирать и время отпускать. Тот, кто пытается всегда быть на пике, ломается. Тот, кто умеет опускаться вместе с волной, поднимается с ней.",
+    "ending": "Следующий ролик - о тишине между словами, где время раскрывается полнее всего.",
+    "images": [
+      [
+        "Waves rolling onto a sandy beach at sunset, rhythmic pattern of water advancing and retreating, golden light reflecting on wet sand, peaceful cyclical motion, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person meditating in lotus position by a calm lake at dawn, reflection showing perfect symmetry, mist rising from water, sense of natural rhythm and balance, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Tree rings visible in a cross-section of an ancient trunk, each ring marking years of growth, warm light revealing texture and pattern, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A dancer in mid-leap against a golden sunset sky, body arched in perfect rhythm with invisible music, sense of flowing with time rather than fighting it, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "У времени есть свой ритм -\nмоменты расширения и сжатия.\nМудрость в том, чтобы\nне бороться, а танцевать.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "vremya-i-tishina",
+    "hook": "Между двумя нотами есть пауза, и именно в ней рождается музыка. Между двумя словами есть тишина, и именно в ней рождается смысл. Время не только то, что звучит, но и то, что молчит.",
+    "vo": "Мы боимся тишины и заполняем её шумом - разговорами, музыкой, скроллингом, новостями. Нам кажется, что пустота - это отсутствие чего-то, но на самом деле тишина - это присутствие всего. Психологи знают: мозгу нужны периоды бездействия, чтобы обрабатывать пережитое и находить связи, которые не видны в суете. Шри Чинмой шёл дальше и говорил, что тишина - это не пустота, а пространство, в котором время раскрывается. В суете секунды летят незаметно, в тишине - каждое мгновение становится весомым и полным. Вот почему медитация, молитва, созерцание - всё это практики возвращения к тишине, где время перестаёт быть врагом и становится другом. И иногда самый мудрый ответ на вопрос времени - это молчание.",
+    "ending": "Следующий ролик - о том, как благодарность превращает обычное время в священное.",
+    "images": [
+      [
+        "A person sitting in complete stillness in a vast empty cathedral, single shaft of light illuminating them, dust motes suspended in the beam, sense of profound silence and presence, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of a single drop of water falling into a still pool, perfect circular ripples expanding outward, frozen in time, shallow depth of field, warm side lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A snowy landscape at dawn, fresh undisturbed snow covering everything, complete stillness, no wind, no movement, soft golden morning light, sense of sacred silence, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An ancient stone circle in a misty field at sunrise, standing stones silhouetted against golden sky, sense of timeless presence and ancient silence, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Тишина - не пустота,\nа пространство, где время\nраскрывается полностью.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "vremya-i-blagodarnost",
+    "hook": "Благодарность - это алхимия времени. Она превращает обычный день в подарок, привычное утро в чудо, а жизнь из обязательства - в дар.",
+    "vo": "Нейронаука знает: мозг, тренированный в благодарности, буквально перестраивается. Он начинает замечать то, что раньше проходил мимо - свет на стене, улыбку незнакомца, вкус хлеба. Психология добавляет: благодарность не меняет обстоятельств, но меняет то, как мы их проживаем. Одно и то же утро может быть рутиной или чудом - разница в одном взгляде. Шри Чинмой шёл дальше науки и говорил, что благодарность - это не реакция на хорошее, а способ сделать любое хорошее. Когда вы благодарны за дыхание, оно становится глубже. Когда вы благодарны за время, оно становится полнее. Вот последняя тайна: время не кончается для того, кто умеет быть благодарным за каждый его кусочек. Ибо тот, кто видит вечность в одном мгновении, никогда не окажется в нехватке.",
+    "ending": "Конец серии. Но время продолжается - и каждый новый день - это приглашение начать сначала.",
+    "images": [
+      [
+        "A person's hands holding a simple bowl of warm food, steam rising, morning light streaming through a window, expression of deep gratitude, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of dewdrops on grass blades at sunrise, each drop reflecting golden light like tiny jewels, shallow depth of field, sense of wonder at simple beauty, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A child laughing and running through a sunlit meadow, arms spread wide, golden hour backlight creating a halo effect, pure joy and gratitude for being alive, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An elderly couple sitting together on a bench, hands intertwined, watching sunset over a calm lake, peaceful expressions of deep gratitude and contentment, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Благодарность - алхимия времени:\nона превращает обычное\nв священное, а мгновение -\nв вечность.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  }
+]

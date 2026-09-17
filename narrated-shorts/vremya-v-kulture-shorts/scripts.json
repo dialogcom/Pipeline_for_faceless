@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "slug": "egipet-dva-lica-vechnosti",
+    "hook": "Древние египтяне знали два слова для вечности. Одно - о том, что повторяется. Другое - о том, что длится вечно.",
+    "vo": "Пять тысяч лет назад, когда фараоны строили пирамиды, жрецы Гелиополя различали нехе иджет. Нехе - время циклическое: восход и закат, разлив Нила, смена сезонов. Время, которое возвращается. Джет - время статичное: вечность мёртвых, неизменность камня, абсолют за пределами перемен. Один бог ассоциировался с небом, другой - с землёй. Один - с движением, другой - с покоем. Египтяне не выбирали между ними. Они видели: полная картина времени требует обоих. Шри Чинмой говорил похожее: земное время - необходимость, небесное время - реальность. Но необходимость без реальности пуста, а реальность без необходимости недосягаема. Истина - в их встрече. Когда циклическое время вашей жизни - привычки, ритмы, повторения - начинает отражать вечное. Когда каждый день становится не копией вчерашнего, а шагом в бесконечность.",
+    "ending": "Это новая серия. И новое понимание времени, которое убирает тревогу.",
+    "images": [
+      [
+        "Ancient Egyptian temple columns at sunrise, golden light streaming between massive stone pillars, hieroglyphs carved deep catching shadows, a priest in white linen robes standing with arms raised to the sun, dust motes in light beams, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "The Nile River flooding its banks, ancient papyrus reeds bending in the current, muddy water reflecting a sky full of stars, a small wooden boat with a single lantern drifting downstream, timeless atmosphere, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Inside a pyramid chamber, massive stone walls converging toward a distant point of light, a single oil lamp burning in an alcove, shadows stretching endlessly, sense of eternity and stillness, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A modern person standing at the edge of the desert at dawn, looking toward the horizon where sand meets sky, their shadow stretching long behind them, a sense of both movement and permanence, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Земное время - необходимость,\nа Небесное время - реальность,\nа реальность необходимости -\nэто Божественное Опьянение.",
+      "source": "Шри Чинмой, «Земное время и вечное время»",
+      "url": "https://ru.srichinmoylibrary.com/el-33"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "grecheskie-dva-vremeni",
+    "hook": "Древние греки имели два слова для времени. Одно - о том, сколько. Другое - о том, когда.",
+    "vo": "Афинские философы различали хронос и кайрос. Хронос - время количественное: секунды, минуты, часы. Время, которое можно измерить, разделить, потратить. Кайрос - время качественное: подходящий момент, мгновение истины, точка невозврата. Хронос спрашивает: сколько времени прошло? Кайрос спрашивает: пришло ли время? Аристотель говорил: если ты ждёшь или медлишь, этот момент уйдёт навсегда. Платон видел в кайросе не просто удачное стечение обстоятельств, а встречу с вечностью внутри временного. Шри Чинмой шёл дальше: он различал не только земное и небесное время, но и время души. В одно мгновение времени души можно достичь того, на что в земном времени нужны часы. Кайрос - это не удача. Это готовность. Момент, когда внутренняя зрелость встречается с внешней возможностью.",
+    "ending": "Еще расскажу почему некоторые моменты стоят целой жизни.",
+    "images": [
+      [
+        "Ancient Greek agora at dawn, marble columns in soft morning light, a philosopher in white toga standing alone looking at a sundial on the ground, geometric shadows stretching across stone pavement, contemplative atmosphere, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of an ancient water clock (clepsydra) made of bronze, water dripping slowly from one vessel to another, worn edges showing centuries of use, warm candlelight reflecting off the metal surface, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A single olive tree on a hillside at golden hour, branches twisted by wind and time, leaves catching sunlight like silver coins, the Mediterranean Sea visible in the distance, sense of waiting and readiness, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An open doorway in a white-washed wall on a Greek island, bright light flooding through from outside, a figure stepping through the threshold caught mid-stride, moment of decision and transition, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "В одно мгновение времени души\nможно достичь того,\nна что в земном времени\nнужны часы.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/scs-204"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "indiyskoe-koleso-vremeni",
+    "hook": "В индуизме время - не линия. Это колесо. И мы все внутри него.",
+    "vo": "Древние ведические мудрецы видели время как вечное возвращение. Четыре юги - сатья, трета, двапара, кали - вращаются бесконечно. Каждая эпоха несёт свой уровень сознания, свою близость к истине. Сатья-юга - золотой век, когда дхарма стоит на четырёх ногах. Кали-юга - наш век, когда истина держится на одной. Но колесо не останавливается. После кали придёт снова сатья. Не случайно, а неизбежно. Калачакра - Колесо Времени - учит: каждый момент содержит все эпохи одновременно. Вопрос не в том, когда вы живёте. Вопрос в том, где внутри колеса вы находитесь. Шри Чинмой говорил: мы живём не в земном времени - мы живём в вечности. Вечность имеет прошлое, настоящее и будущее. В прошлом вечности мы уже достигали. В настоящем достигаем. В будущем будем достигать бесконечно. Колесо крутится не для того, чтобы вернуться к началу. А чтобы каждый круг поднимал нас выше.",
+    "ending": "Следующий сюжет - о буддизме и о том, почему непостоянство - не враг, а учитель.",
+    "images": [
+      [
+        "Ancient Hindu temple carved into rock at dusk, intricate carvings of gods and cosmic cycles visible in fading light, oil lamps flickering in niches along the walls, a sense of infinite time compressed in stone, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A large stone wheel (Kalachakra) in a temple courtyard, spokes radiating from center, morning light casting long shadows across the carved symbols, a monk in saffron robes standing beside it in meditation, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "The Ganges River at sunrise, thousands of small oil lamps floating on the water's surface, temple spires in the background silhouetted against orange sky, ripples in the water distorting reflections, eternal flow of time, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A single flame burning in a dark temple chamber, reflected in polished brass vessels arranged in a circle around it, sense of eternity contained in one moment, warm amber light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "В духовной жизни мы имеем дело\nс Вечностью: вечным прошлым,\nвечным настоящим и вечным будущим.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/mmt-9"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "buddizm-nepostoyanstvo",
+    "hook": "Будда сказал: всё возникает и исчезает. Это не пессимизм. Это освобождение.",
+    "vo": "Аничча - непостоянство - первое из трёх признаков существования в буддизме. Всё, что рождено, умрёт. Всё, что собрано, рассеется. Всё, что встретилось, разойдётся. Но это не повод для отчаяния. Это причина для пробуждения. Когда вы действительно понимаете, что этот момент не повторится, он становится драгоценным. Когда вы принимаете, что всё меняется, вы перестаёте цепляться. Дзен-мастеры говорили: не ищите вечность вне времени. Вечность - в полном присутствии внутри преходящего. Чаша разобьётся. Цветок увянет. Тело состарится. Но в момент, когда вы держите чашу, когда нюхаете цветок, когда смотрите в глаза любимого человека - вы касаетесь бесконечного. Шри Чинмой учил: когда живёшь в душе, нет такой вещи, как смерть. Не потому что тело вечно. А потому что душа знает: каждое мгновение - это вечность, сжатая до точки.",
+    "ending": "Следующий ролик - о майя и о том, как они считали священные дни.",
+    "images": [
+      [
+        "A Zen Buddhist monastery garden in early morning mist, raked gravel patterns stretching endlessly, ancient pine trees twisted by time, a single monk sweeping leaves with a bamboo broom, sense of impermanence and peace, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of cherry blossoms falling into a still pond, petals floating on the surface creating perfect circles, some petals mid-air caught in sunlight, shallow depth of field, moment of beauty and transience, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "An ancient stone Buddha statue in a forest clearing, moss growing on weathered features, dappled sunlight filtering through canopy above, roots of a great tree growing around the base, nature reclaiming what time built, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A single candle flame reflected in a bowl of water, the flame perfectly still while the water's surface shows tiny ripples, dark background with warm amber light, symbol of eternal present within change, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Когда мы живём в душе,\nнет такой вещи, как смерть.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/dr-23"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "mayya-svyashchennye-tsikly",
+    "hook": "Майя не считали время. Они его слышали. Каждый день имел имя и голос.",
+    "vo": "Цолькин - священный календарь майя - состоял из 260 дней. Не случайно. Это время человеческой беременности. Это цикл от зачатия до первого крика. Двадцать имён дней, тринадцать чисел, вращающихся вместе, как шестерни космических часов. Когда число и имя совпадали снова, проходил цикл в 52 года - Календарный Круг. Майя не видели время как стрелу, летящую из прошлого в будущее. Они видели его как спираль, возвращающуюся, но каждый раз на другом уровне. Время было не абстракцией - оно было живым. Каждый день нёс свою энергию, свою задачу, свою молитву. Жрец знал: сегодня день Иш'кааб - день Ягуара. Завтра день К'ан - день Лабиринта. Каждый день требовал своего ритуала, своего внимания. Шри Чинмой говорил: время - это любовь. Если мы любим время, оно даёт нам то, что нужно: радость. Майя любили время настолько, что превратили его в музыку.",
+    "ending": "Следующий ролик - о Китае и о том, как время связано с небом.",
+    "images": [
+      [
+        "Ancient Mayan pyramid at Chichen Itza during sunrise, stepped pyramid rising from jungle canopy, morning mist in valleys below, geometric precision of architecture against organic forest, golden light on limestone, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of Mayan calendar stone carving, intricate glyphs and symbols carved deep into volcanic rock, weathered edges showing centuries of use, dramatic side lighting emphasizing texture, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A Mayan elder in traditional woven clothing standing in a cornfield at golden hour, stalks of maize surrounding him, hands raised in prayer gesture, sunlight filtering through leaves creating patterns on the ground, connection between time and harvest, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Night sky over Mayan ruins, Milky Way stretching across darkness, ancient stone observatory silhouetted below, sense of cosmic cycles and human observation across millennia, deep blue and gold tones, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Время - это любовь.\nЕсли мы любим время,\nтогда время даёт нам\nто, что нам нужно: радость.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "kitay-garmoniya-neba-i-zemli",
+    "hook": "В древнем Китае время не принадлежало людям. Оно принадлежало Небу. И Небо делилось им с Землёй.",
+    "vo": "Китайские императорские астрономы вели календарь не для удобства - для сохранения космического порядка. Лунно-солнечный календарь следил за двумя ритмами одновременно: луна отсчитывала месяцы, солнце - годы. Когда они расходились, добавлялся тринадцатый месяц - жест примирения между двумя небесными телами. Время было не линейным прогрессом, а гармонией. Двадцать четыре солнечных термина делили год на равные части, каждый со своей задачей: когда сеять, когда собирать, когда отдыхать. Конфуций говорил: Небо говорит не словами, но через времена и природу. Слушать время означало слушать саму реальность. Шри Чинмой учил: Всевышний в нас, Внутренний Кормчий, исполняет Свою мечту и Свою реальность здесь на земле через время. Время - не враг, которого нужно победить. Время - партнёр, с которым нужно танцевать.",
+    "ending": "Следующий ролик - о стоиках и о том, почему они считали время единственным истинным богатством.",
+    "images": [
+      [
+        "Ancient Chinese observatory at dawn, bronze astronomical instruments silhouetted against orange sky, traditional curved roof architecture in foreground, mist rising from valley below, sense of ancient cosmic observation, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A traditional Chinese garden in autumn, red maple leaves falling into still pond, curved wooden bridge reflected in water, ancient pavilion with upturned eaves visible through trees, harmony of natural cycles, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of an ancient Chinese sundial made of jade and bronze, intricate markings showing hours and seasons, weathered surface showing centuries of use, soft light filtering through bamboo leaves above, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Rice terraces carved into mountainside at golden hour, water reflecting sky in each level, farmers working in distant fields, sense of time measured in seasons and harvests, geometric patterns following natural contours, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Всевышний в нас, Внутренний Кормчий,\nисполняет Свою мечту\nи Свою реальность здесь на земле\nчерез время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "stoitsizm-vremya-kak-dar",
+    "hook": "Стоики говорили: время - единственное, что по-настоящему ваше. И вы отдаёте его всем, кроме себя.",
+    "vo": "Сенека написал трактат «О скоротечности жизни». Его тезис шокировал: жизнь не коротка - мы сами её сокращаем. Мы расточительны с временем, как наследники с состоянием, которое кажется бесконечным. Марк Аврелий, император Рима, каждый вечер задавал вопрос: что я сделал с этим днём? Не что сделал со мной мир. Что я сделал с материалом, который мне дали. Эпиктет шёл дальше: мы не владеем ничем, кроме этого момента. Прошлое - память. Будущее - надежда. Настоящее - единственное, что реально. Шри Чинмой согласился бы: он различал земное время, которое можно потратить, и время души, которое можно только наполнить. Когда вы смотрите внутрь, вы экономите время. Когда смотрите назад, вы его тратите. Стоики знали это две тысячи лет назад. Они не придумали формулу. Они вспомнили то, что душа знает всегда: момент - это всё, что у нас есть. И этого достаточно для вечности.",
+    "ending": "Следующий ролик - о средневековье и о том, как монастыри изобрели расписание.",
+    "images": [
+      [
+        "Ancient Roman forum at sunset, marble columns casting long shadows across stone pavement, ruined arches framing golden sky, sense of imperial grandeur faded but enduring, warm amber light on weathered stone, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of an ancient hourglass on a wooden desk, sand flowing steadily between glass chambers, scattered scrolls and an inkwell nearby, candlelight flickering, symbol of time measured and spent, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A lone figure standing on cliff edge overlooking Mediterranean Sea at dawn, white toga flowing in wind, looking toward horizon where sea meets sky, sense of contemplation and vastness, golden light on face and water, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Interior of ancient stone library, scrolls arranged on wooden shelves reaching to ceiling, shaft of light from high window illuminating dust motes, sense of accumulated wisdom across time, warm golden atmosphere, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Когда я смотрю внутрь,\nя экономлю время.\nКогда я смотрю назад,\nя трачу время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "srednevekove-bozhestvennoe-vremya",
+    "hook": "В средневековых монастырях время не принадлежало монахам. Оно принадлежало Богу. И Бог делил его на часы молитв.",
+    "vo": "Бенедиктинский устав разделил день на семь канонических часов: матинес, лаудс, прайм, терция, секста, нон, вечерня. Не потому что Бог нуждался в напоминаниях. А потому что человек нуждался в ритме. Каждый час - не прерывание работы, а возвращение к центру. Монахи не считали время - они его освящали. Колокола аббатства не отмечали минуты - они отмечали встречи с вечностью внутри временного. Средневековые соборы строились десятилетиями, иногда столетиями. Архитектор, который закладывал фундамент, никогда не видел завершения. Но это не было поражением. Это было актом веры: время больше, чем одна жизнь. Каждый камень - молитва, которую кто-то другой услышит. Что такое НЕВОЗМОЖНОСТЬ? Шри Чинмой ответил: сегодняшняя НЕВОЗМОЖНОСТЬ — это завтрашнее достижение. Средневековые строители знали это. Они работали не для себя. Они работали для времени, которое больше них.",
+    "ending": "Следующий ролик - о том, как механические часы изменили всё. И что мы потеряли.",
+    "images": [
+      [
+        "Gothic cathedral interior at dawn, massive stone pillars reaching toward vaulted ceiling hundreds of feet above, stained glass windows just beginning to glow with morning light, sense of vertical aspiration and divine presence, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Medieval monastery cloister at sunset, stone arches casting geometric shadows on courtyard garden, a monk in dark robe walking alone in contemplation, ancient well in center, sense of sacred rhythm and measured time, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of an ancient mechanical clock mechanism inside a church tower, brass gears and bells visible, worn wooden beams showing centuries of service, dust motes dancing in shaft of light from small window, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A stone mason's workshop with partially carved capitals and columns, tools scattered on wooden workbench, afternoon light streaming through doorway, sense of work spanning generations, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Сегодняшняя НЕВОЗМОЖНОСТЬ\nстановится завтрашним\nдостижением.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 9,
+    "slug": "revolyutsiya-chasov",
+    "hook": "В четырнадцатом веке появились механические часы. И человечество перестало жить по солнцу.",
+    "vo": "До изобретения часового механизма время было публичным достоянием. Солнце принадлежало всем. Колокола церкви отмечали часы молитв, но не минуты труда. Потом, в итальянских городах-государствах, появились первые башенные часы. И время стало собственностью. Купцы могли измерить, сколько стоит час работы. Фабриканты - сколько стоит день рабочего. Время разделилось на единицы, которые можно было покупать и продавать. Это была революция, тихая, но тотальная. Мы перестали спрашивать «который час?» у природы. Мы начали спрашивать у механизма. Шри Чинмой предупреждал: земное время измеряет все наши действия и само может быть измерено. Но душа использует безграничное время. Когда мы полностью поглощены земным временем, мы забываем, что внутри нас есть нечто, что не знает часов. Что-то, что жило до рождения, живёт между рождением и смертью, и будет жить после.",
+    "ending": "Следующий ролик - финальный. О том, как вернуть время себе.",
+    "images": [
+      [
+        "Medieval town square at dawn, early mechanical clock tower rising above stone buildings, townspeople gathered below looking up at the clock face in wonder, morning mist in streets, transition from natural to mechanical time, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of an ornate Renaissance clock face, Roman numerals, ornate golden hands, intricate brass mechanisms visible through glass, warm candlelight reflecting off metal surfaces, symbol of precision and measurement, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Early factory interior with workers at looms, large clock on wall showing exact time, shafts of light from high windows, sense of industrial rhythm and measured labor, contrast between human and mechanical time, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person standing alone in modern city at night, neon clocks of different times glowing on buildings, crowds blurred in motion around them, sense of time fragmentation and alienation, searching for something deeper, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Земное время измеряет все наши действия\nи само может быть измерено.\nНо душа использует\nбезграничное время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 10,
+    "slug": "vozvrashchenie-vremeni",
+    "hook": "Мы потеряли время. Не потому что его слишком мало. А потому что забыли, как его любить.",
+    "vo": "Пять тысяч лет цивилизация учила нас измерять время. Египтяне дали нам циклы и вечность. Греки - качество момента. Индусы - колесо возвращения. Буддисты - красоту непостоянства. Майя - священную музыку дней. Китайцы - гармонию неба и земли. Стоики - время как единственное богатство. Средневековье - ритм молитвы. Механические часы - точность. И вот мы здесь. С атомными часами, измеряющими наносекунды. С календарями на три поколения вперёд. С расписаниями, заполненными до отказа. И при этом - самые уставшие, самые спешащие, самые потерянные во времени люди в истории. Шри Чинмой сказал простую вещь: выбрать время - значит спасти время. Мы можем выбрать время, любя время. Не измеряя его. Не оптимизируя его. Любя его. Каждый момент - не единица производства. Это встреча. С чем? С собой. С вечностью. С тем, что больше нас. Время ждёт не календаря. Оно ждёт внимания.",
+    "ending": "Серия завершена. Но время - нет.",
+    "images": [
+      [
+        "A person sitting alone on a bench in autumn park, leaves falling slowly around them, golden afternoon light filtering through trees, eyes closed in peaceful acceptance, sense of returning to natural rhythm, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of hands holding a small smooth stone by a river, water flowing past, sense of holding something eternal while everything changes, warm natural light, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A single tree standing in field at sunset, branches reaching toward sky, long shadow stretching across golden grass, sense of both rootedness and reaching upward, cycle of seasons visible in fallen leaves, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Night sky full of stars over silent landscape, a single figure looking upward, sense of infinite time and human presence within it, Milky Way stretching across darkness, both smallness and connection, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Выбрать время - значит\nспасти время.\nМы можем выбрать время,\nлюбя время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  }
+]

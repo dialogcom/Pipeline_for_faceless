@@ -1,51 +1,440 @@
 {
-  "series": "posledniy-vulkan-shorts",
-  "series_title": "Последний вулкан",
-  "queue": [
+  "series": [
     {
-      "episode": 1,
-      "title": "Почтальон, который дошёл",
-      "file": "output/short-01-pochtalon-kotoryy-doshel.mp4",
-      "duration": "60.5s",
-      "status": "ready",
-      "publish_date": "2026-09-09",
-      "platform": "YouTube Shorts"
+      "series": "posledniy-vulkan-shorts",
+      "series_title": "Последний вулкан",
+      "queue": [
+        {
+          "episode": 1,
+          "title": "Почтальон, который дошёл",
+          "file": "output/short-01-pochtalon-kotoryy-doshel.mp4",
+          "duration": "60.5s",
+          "status": "published",
+          "publish_date": "2026-09-09",
+          "platform": "YouTube Shorts",
+          "video_url": "https://youtube.com/watch?v=..."
+        },
+        {
+          "episode": 2,
+          "title": "Число, на котором держалось имя",
+          "file": "output/short-02-chislo-na-kotorom-derzhalos-imya.mp4",
+          "duration": "58.2s",
+          "status": "published",
+          "publish_date": "2026-09-10",
+          "platform": "YouTube Shorts",
+          "video_url": "https://youtube.com/watch?v=..."
+        },
+        {
+          "episode": 3,
+          "title": "Правило было под рукой — трижды",
+          "file": "output/short-03-pravilo-bylo-pod-rukoy-trizhdy.mp4",
+          "duration": "57.8s",
+          "status": "rescheduled",
+          "original_date": "2026-09-11",
+          "publish_date": "2026-10-13",
+          "platform": "YouTube Shorts",
+          "note": "Удалено из-за низких просмотров, перенесено с оптимизированным описанием"
+        },
+        {
+          "episode": 4,
+          "title": "Искуситель приходит на сороковой",
+          "file": "output/short-04-iskusitel-prihodit-na-sorokovoy.mp4",
+          "duration": "56s",
+          "status": "published",
+          "publish_date": "2026-09-12",
+          "platform": "YouTube Shorts",
+          "video_url": "https://youtube.com/watch?v=..."
+        },
+        {
+          "episode": 5,
+          "title": "Что стоило это число?",
+          "file": "output/short-05-chto-stoilo-eto-chislo.mp4",
+          "duration": "59.7s",
+          "status": "rescheduled",
+          "original_date": "2026-09-13",
+          "publish_date": "2026-10-15",
+          "platform": "YouTube Shorts",
+          "note": "Удалено из-за низких просмотров, перенесено с оптимизированным описанием"
+        },
+        {
+          "episode": 6,
+          "title": "Голос, который не послушали",
+          "file": "output/short-06-golos-kotoryy-ne-poslushali.mp4",
+          "duration": "49.8s",
+          "status": "published",
+          "publish_date": "2026-09-14",
+          "platform": "YouTube Shorts",
+          "video_url": "https://youtube.com/watch?v=..."
+        },
+        {
+          "episode": 7,
+          "title": "Зеркало на другой стороне",
+          "file": "output/short-07-zerkalo-na-drugoy-storone.mp4",
+          "duration": "42.0s",
+          "status": "published",
+          "publish_date": "2026-09-15",
+          "platform": "YouTube Shorts",
+          "video_url": "https://youtube.com/watch?v=..."
+        },
+        {
+          "episode": 8,
+          "title": "Тот, кто пошёл обратно",
+          "file": "output/short-08-tot-kto-poshyob-obratno.mp4",
+          "duration": "46.8s",
+          "status": "published",
+          "publish_date": "2026-09-16",
+          "platform": "YouTube Shorts",
+          "video_url": "https://youtube.com/watch?v=..."
+        }
+      ]
     },
     {
-      "episode": 2,
-      "title": "Число, на котором держалось имя",
-      "file": "output/short-02-chislo-na-kotorom-derzhalos-imya.mp4",
-      "duration": "58.2s",
-      "status": "ready",
-      "publish_date": "2026-09-10",
-      "platform": "YouTube Shorts"
+      "series": "taina-vremeni-shorts",
+      "series_title": "Тайна времени",
+      "queue": [
+        {
+          "episode": 1,
+          "slug": "killing-time",
+          "title": "Каждый день вы убиваете время. А время убивает вас",
+          "file": "output/short-01-killing-time.mp4",
+          "duration": "63.6s",
+          "status": "uploaded",
+          "publish_date": "2026-10-14",
+          "platform": "YouTube Shorts",
+          "video_id": "-0q-NSZOelM",
+          "video_url": "https://youtube.com/watch?v=-0q-NSZOelM"
+        },
+        {
+          "episode": 2,
+          "slug": "sekunda-vechnosti",
+          "title": "Есть секунда, в которую умещается вся жизнь",
+          "file": "output/short-02-sekunda-vechnosti.mp4",
+          "duration": "63.6s",
+          "status": "uploaded",
+          "publish_date": "2026-10-16",
+          "platform": "YouTube Shorts",
+          "video_id": "uL9bpQmBj7A",
+          "video_url": "https://youtube.com/watch?v=uL9bpQmBj7A"
+        },
+        {
+          "episode": 3,
+          "slug": "subektivnye-chasy",
+          "title": "Час с любимым пролетает как мгновение. Час в очереди — как вечность",
+          "file": "output/short-03-subektivnye-chasy.mp4",
+          "duration": "78.9s",
+          "status": "uploaded",
+          "publish_date": "2026-10-18",
+          "platform": "YouTube Shorts",
+          "video_id": "fOhzOPF4_5I",
+          "video_url": "https://youtube.com/watch?v=fOhzOPF4_5I"
+        },
+        {
+          "episode": 4,
+          "slug": "poka-ne-konchitsya",
+          "title": "Мы живём так, будто впереди бесконечность",
+          "file": "output/short-04-poka-ne-konchitsya.mp4",
+          "duration": "70.2s",
+          "status": "uploaded",
+          "publish_date": "2026-10-20",
+          "platform": "YouTube Shorts",
+          "video_id": "SmBG7du_AHU",
+          "video_url": "https://youtube.com/watch?v=SmBG7du_AHU"
+        },
+        {
+          "episode": 5,
+          "slug": "druzhba-so-vremenem",
+          "title": "Мы столько лет воюем со временем",
+          "file": "output/short-05-druzhba-so-vremenem.mp4",
+          "duration": "66.1s",
+          "status": "uploaded",
+          "publish_date": "2026-10-22",
+          "platform": "YouTube Shorts",
+          "video_id": "Xm1NpHSIKpQ",
+          "video_url": "https://youtube.com/watch?v=Xm1NpHSIKpQ"
+        },
+        {
+          "episode": 6,
+          "slug": "vremya-i-pamyat",
+          "title": "Прошлое не уходит. Оно живёт внутри нас",
+          "file": "output/short-06-vremya-i-pamyat.mp4",
+          "duration": "68.7s",
+          "status": "uploaded",
+          "publish_date": "2026-10-24",
+          "platform": "YouTube Shorts",
+          "video_id": "aJDmO5H6B94",
+          "video_url": "https://youtube.com/watch?v=aJDmO5H6B94"
+        },
+        {
+          "episode": 7,
+          "slug": "vremya-i-ozhidanie",
+          "title": "Ожидание - самая странная комната во вселенной",
+          "file": "output/short-07-vremya-i-ozhidanie.mp4",
+          "duration": "63.0s",
+          "status": "uploaded",
+          "publish_date": "2026-10-26",
+          "platform": "YouTube Shorts",
+          "video_id": "OmGChwMrr_Y",
+          "video_url": "https://youtube.com/watch?v=OmGChwMrr_Y"
+        },
+        {
+          "episode": 8,
+          "slug": "vremya-i-ritm",
+          "title": "Время не линейно. Оно циклично, как дыхание",
+          "file": "output/short-08-vremya-i-ritm.mp4",
+          "duration": "65.6s",
+          "status": "uploaded",
+          "publish_date": "2026-10-28",
+          "platform": "YouTube Shorts",
+          "video_id": "HvSzbHoJ6T8",
+          "video_url": "https://youtube.com/watch?v=HvSzbHoJ6T8"
+        },
+        {
+          "episode": 9,
+          "slug": "vremya-i-tishina",
+          "title": "Между двумя нотами есть пауза, и в ней рождается музыка",
+          "file": "output/short-09-vremya-i-tishina.mp4",
+          "duration": "65.7s",
+          "status": "uploaded",
+          "publish_date": "2026-10-30",
+          "platform": "YouTube Shorts",
+          "video_id": "ntPCShNqDJ0",
+          "video_url": "https://youtube.com/watch?v=ntPCShNqDJ0"
+        },
+        {
+          "episode": 10,
+          "slug": "vremya-i-blagodarnost",
+          "title": "Благодарность - это алхимия времени",
+          "file": "output/short-10-vremya-i-blagodarnost.mp4",
+          "duration": "67.2s",
+          "status": "uploaded",
+          "publish_date": "2026-11-01",
+          "platform": "YouTube Shorts",
+          "video_id": "xzZ3Ri2W3vA",
+          "video_url": "https://youtube.com/watch?v=xzZ3Ri2W3vA"
+        }
+      ],
+      "playlist_id": "PLW76YfgwTiH0",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLW76YfgwTiH0"
     },
     {
-      "episode": 3,
-      "title": "Правило было под рукой — трижды",
-      "file": "output/short-03-pravilo-bylo-pod-rukoy-trizhdy.mp4",
-      "duration": "57.8s",
-      "status": "ready",
-      "publish_date": "2026-09-11",
-      "platform": "YouTube Shorts"
+      "series": "vremya-v-kulture-shorts",
+      "series_title": "Время в культуре",
+      "queue": [
+        {
+          "episode": 1,
+          "slug": "egipet-dva-lica-vechnosti",
+          "title": "Древние египтяне знали два слова для вечности",
+          "file": "output/short-01-egipet-dva-lica-vechnosti.mp4",
+          "duration": "70.7s",
+          "status": "uploaded",
+          "publish_date": "2026-11-03",
+          "platform": "YouTube Shorts",
+          "video_id": "FqmAi9nJ82k",
+          "video_url": "https://youtube.com/watch?v=FqmAi9nJ82k"
+        },
+        {
+          "episode": 2,
+          "slug": "grecheskie-dva-vremeni",
+          "title": "Древние греки имели два слова для времени",
+          "file": "output/short-02-grecheskie-dva-vremeni.mp4",
+          "duration": "62.6s",
+          "status": "uploaded",
+          "publish_date": "2026-11-05",
+          "platform": "YouTube Shorts",
+          "video_id": "gkUtW4S7Mrk",
+          "video_url": "https://youtube.com/watch?v=gkUtW4S7Mrk"
+        },
+        {
+          "episode": 3,
+          "slug": "indiyskoe-koleso-vremeni",
+          "title": "В индуизме время - не линия. Это колесо",
+          "file": "output/short-03-indiyskoe-koleso-vremeni.mp4",
+          "duration": "72.5s",
+          "status": "uploaded",
+          "publish_date": "2026-11-07",
+          "platform": "YouTube Shorts",
+          "video_id": "fcV5dPuUY4U",
+          "video_url": "https://youtube.com/watch?v=fcV5dPuUY4U"
+        },
+        {
+          "episode": 4,
+          "slug": "buddizm-nepostoyanstvo",
+          "title": "Будда сказал: всё возникает и исчезает",
+          "file": "output/short-04-buddizm-nepostoyanstvo.mp4",
+          "duration": "70.8s",
+          "status": "uploaded",
+          "publish_date": "2026-11-10",
+          "platform": "YouTube Shorts",
+          "video_id": "7_Q7bW8YCNw",
+          "video_url": "https://youtube.com/watch?v=7_Q7bW8YCNw"
+        },
+        {
+          "episode": 5,
+          "slug": "mayya-svyashchennye-tsikly",
+          "title": "Майя не считали время. Они его слышали",
+          "file": "output/short-05-mayya-svyashchennye-tsikly.mp4",
+          "duration": "72.4s",
+          "status": "uploaded",
+          "publish_date": "2026-11-12",
+          "platform": "YouTube Shorts",
+          "video_id": "ytC84Ks9bRY",
+          "video_url": "https://youtube.com/watch?v=ytC84Ks9bRY"
+        },
+        {
+          "episode": 6,
+          "slug": "kitay-garmoniya-neba-i-zemli",
+          "title": "В древнем Китае время принадлежало Небу",
+          "file": "output/short-06-kitay-garmoniya-neba-i-zemli.mp4",
+          "duration": "67.8s",
+          "status": "uploaded",
+          "publish_date": "2026-11-14",
+          "platform": "YouTube Shorts",
+          "video_id": "7kMQqJWyTDE",
+          "video_url": "https://youtube.com/watch?v=7kMQqJWyTDE"
+        },
+        {
+          "episode": 7,
+          "slug": "stoitsizm-vremya-kak-dar",
+          "title": "Стоики: время - единственное, что ваше",
+          "file": "output/short-07-stoitsizm-vremya-kak-dar.mp4",
+          "duration": "73.5s",
+          "status": "uploaded",
+          "publish_date": "2026-11-17",
+          "platform": "YouTube Shorts",
+          "video_id": "XDozg4W9gj8",
+          "video_url": "https://youtube.com/watch?v=XDozg4W9gj8"
+        },
+        {
+          "episode": 8,
+          "slug": "srednevekove-bozhestvennoe-vremya",
+          "title": "В средневековье время принадлежало Богу",
+          "file": "output/short-08-srednevekove-bozhestvennoe-vremya.mp4",
+          "duration": "71.2s",
+          "status": "uploaded",
+          "publish_date": "2026-11-19",
+          "platform": "YouTube Shorts",
+          "video_id": "GBXEE3AJqho",
+          "video_url": "https://youtube.com/watch?v=GBXEE3AJqho"
+        },
+        {
+          "episode": 9,
+          "slug": "revolyutsiya-chasov",
+          "title": "В 14 веке появились часы. И всё изменилось",
+          "file": "output/short-09-revolyutsiya-chasov.mp4",
+          "duration": "69.0s",
+          "status": "uploaded",
+          "publish_date": "2026-11-21",
+          "platform": "YouTube Shorts",
+          "video_id": "OmI5XWEQjc4",
+          "video_url": "https://youtube.com/watch?v=OmI5XWEQjc4"
+        },
+        {
+          "episode": 10,
+          "slug": "vozvrashchenie-vremeni",
+          "title": "Мы потеряли время. И вот как его вернуть",
+          "file": "output/short-10-vozvrashchenie-vremeni.mp4",
+          "duration": "74.3s",
+          "status": "uploaded",
+          "publish_date": "2026-11-24",
+          "platform": "YouTube Shorts",
+          "video_id": "zRrg5pbQor0",
+          "video_url": "https://youtube.com/watch?v=zRrg5pbQor0"
+        }
+      ],
+      "playlist_id": "PLd2RGO4c1kFw",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLd2RGO4c1kFw"
     },
     {
-      "episode": 4,
-      "title": "Искуситель приходит на сороковой",
-      "file": "output/short-04-iskusitel-prihodit-na-sorokovoy.mp4",
-      "duration": "56s",
-      "status": "ready",
-      "publish_date": "2026-09-12",
-      "platform": "YouTube Shorts"
-    },
-    {
-      "episode": 5,
-      "title": "Что стоило это число?",
-      "file": "output/short-05-chto-stoilo-eto-chislo.mp4",
-      "duration": "59.7s",
-      "status": "ready",
-      "publish_date": "2026-09-13",
-      "platform": "YouTube Shorts"
+      "series": "privatizatsiya-vremeni-shorts",
+      "series_title": "Приватизация времени",
+      "queue": [
+        {
+          "episode": 1,
+          "slug": "vnimanie-kak-novyi-trud",
+          "title": "Четыреста лет назад продавали часы работы",
+          "file": "output/short-01-vnimanie-kak-novyi-trud.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-11-26",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 2,
+          "slug": "skroll-i-poterya-vremeni",
+          "title": "Когда вы скроллите, мозг теряет время на 60%",
+          "file": "output/short-02-skroll-i-poterya-vremeni.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-11-28",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 3,
+          "slug": "algoritmy-protiv-kachestva",
+          "title": "Алгоритмы продвигают не пользу, а гнев",
+          "file": "output/short-03-algoritmy-protiv-kachestva.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-12-01",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 4,
+          "slug": "lozh-v-shest-raz-bystree",
+          "title": "Ложь распространяется в 6 раз быстрее правды",
+          "file": "output/short-04-lozh-v-shest-raz-bystree.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-12-03",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 5,
+          "slug": "paradoks-kreatorov",
+          "title": "Кто говорит не ради денег, зарабатывает меньше",
+          "file": "output/short-05-paradoks-kreatorov.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-12-05",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 6,
+          "slug": "privatizatsiya-tela",
+          "title": "Фитнес-трекеры приватизировали ваше тело",
+          "file": "output/short-06-privatizatsiya-tela.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-12-08",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 7,
+          "slug": "kolokola-i-push-uvedomleniya",
+          "title": "Колокола звали к молитве. Уведомления зовут к потреблению",
+          "file": "output/short-07-kolokola-i-push-uvedomleniya.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-12-10",
+          "platform": "YouTube Shorts"
+        },
+        {
+          "episode": 8,
+          "slug": "dobrovolnoe-rabstvo",
+          "title": "Насколько этот обмен действительно добровольный?",
+          "file": "output/short-08-dobrovolnoe-rabstvo.mp4",
+          "duration": "pending",
+          "status": "script_ready",
+          "publish_date": "2026-12-12",
+          "platform": "YouTube Shorts"
+        }
+      ]
     }
-  ]
+  ],
+  "publish_strategy": {
+    "frequency": "3-4 videos per week (Mon, Wed, Fri, Sun)",
+    "time": "04:00 UTC (10:00 Almaty)",
+    "min_interval_days": 1,
+    "notes": "Не публиковать более 1 видео в день. Алгоритм YouTube не успевает продвигать при переизбытке контента."
+  }
 }

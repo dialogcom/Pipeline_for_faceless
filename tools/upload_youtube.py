@@ -45,6 +45,9 @@ TITLES = [
     "Его трижды просили развернуться. Трижды он не послушал",
     "Сдаться в начале ничего не стоит. Сдаться у цели — стоит всё",
     "Одно число стоило две жизни. Рассветом оно ничего не значило",
+    "Ему платили за то, чтобы говорить это вслух. Его не послушали",
+    "На другой стороне горы стоял его двойник. Только без клиента",
+    "Он спас троих, пойдя обратно в бурю. Обратно он не вернулся",
 ]
 
 DESCRIPTIONS = [
@@ -89,6 +92,30 @@ DESCRIPTIONS = [
     "От всей истории осталось одно число. На рассвете оно не стоило ничего, "
     "а к ночи стоило двух жизней.\n\n"
     "#Эверест #ЦенаРешения #1996 #ДугласХансен #РобХолл #Финал #КонтрольноеВремя #Shorts",
+
+    "В три часа дня шерпа Анг Дордже догнал Хансена на склоне и сказал вслух то, что должен был сказать. "
+    "Разворачивайся. Ему за это платят. За то, чтобы говорить это вслух.\n\n"
+    "Хансен посмотрел на него и пошёл дальше вверх. Его догнал сам Холл, они коротко поговорили — "
+    "и Хансен снова встал в цепочку.\n\n"
+    "Анг Дордже развернулся и пошёл вниз. Он выжил.\n\n"
+    "Голос, который слышен, но не слушается — это не тишина. Это самый громкий звук, какой вообще бывает на горе.\n\n"
+    "#Эверест #АнгДордже #Шерпа #1996 #ГолосРазума #Альпинизм #Правило #Shorts",
+
+    "Скотт Фишер водил свою группу — американскую фирму «Маунтин мэднесс». "
+    "Как и Холл, он славился тем, что клиенты возвращаются. Как и Холл, он вышел на вершину поздно. "
+    "Как и Холл, он не развернулся вовремя.\n\n"
+    "Но было одно отличие: рядом с Фишером наверху не было никого, за кого он отвечал. "
+    "Он был один. И именно поэтому он не смог спуститься.\n\n"
+    "Два зеркала, два гида, одна ночь.\n\n"
+    "#СкоттФишер #MountainMadness #Эверест #1996 #Зеркало #Альпинизм #Трагедия #Shorts",
+
+    "Анатолий Букреев шёл на вершину без кислорода. Он вышел первым и спустился первым. "
+    "В Лагере Четыре он уже отдыхал, когда понял: наверху остались люди.\n\n"
+    "Он встал и пошёл обратно. В бурю. Без кислорода. Без связки. "
+    "Нашёл троих и вывел их. Маклуглина. Хатчинсона. Фокс.\n\n"
+    "Сам Букреев не дошёл до лагеря. Его нашли утром, в нескольких шагах от палатки.\n\n"
+    "Правило говорит: останься в живых. Сердце говорит: иди обратно.\n\n"
+    "#АнатолийБукреев #Эверест #1996 #Сострадание #Подвиг #Альпинизм #Спасение #Shorts",
 ]
 
 TAGS_LIST = [
@@ -102,6 +129,12 @@ TAGS_LIST = [
      "философия", "духовный путь", "гора", "Эверест", "испытание", "порог", "цель"],
     ["Эверест", "цена решения", "1996", "Дуглас Хансен", "Роб Холл", "финал",
      "контрольное время", "альпинизм", "трагедия", "Гималаи", "вершина"],
+    ["Анг Дордже", "шерпа", "Эверест", "1996", "голос разума", "альпинизм",
+     "правило", "разворот", "Хансен", "Гималаи", "свидетель"],
+    ["Скотт Фишер", "Mountain Madness", "Эверест", "1996", "зеркало", "альпинизм",
+     "гид", "трагедия", "Холл", "Гималаи", "смерть", "одиночество"],
+    ["Анатолий Букреев", "Эверест", "1996", "сострадание", "подвиг", "альпинизм",
+     "спасение", "буря", "без кислорода", "Холл", "Гималаи", "самопожертвование"],
 ]
 
 
@@ -172,9 +205,22 @@ def build_service(creds):
     return build("youtube", "v3", credentials=creds)
 
 
-def upload_video(youtube, file_path, title, description, tags, category_id="27"):
-    """Upload a single video to YouTube."""
+def upload_video(youtube, file_path, title, description, tags, category_id="27",
+                 scheduled_time=None):
+    """Upload a single video to YouTube. If scheduled_time is set, publish as private with publishAt."""
     from googleapiclient.http import MediaFileUpload
+
+    if scheduled_time:
+        status = {
+            "privacyStatus": "private",
+            "selfDeclaredMadeForKids": False,
+            "publishAt": scheduled_time,  # ISO 8601 format
+        }
+    else:
+        status = {
+            "privacyStatus": "public",
+            "selfDeclaredMadeForKids": False,
+        }
 
     body = {
         "snippet": {
@@ -183,10 +229,7 @@ def upload_video(youtube, file_path, title, description, tags, category_id="27")
             "tags": tags,
             "categoryId": category_id,  # 27 = Education
         },
-        "status": {
-            "privacyStatus": "public",
-            "selfDeclaredMadeForKids": False,
-        },
+        "status": status,
     }
 
     media = MediaFileUpload(file_path, mimetype="video/mp4", resumable=True)
@@ -211,6 +254,7 @@ def upload_video(youtube, file_path, title, description, tags, category_id="27")
 
 def main():
     args = sys.argv[1:]
+    peel_dir = os.path.join(ROOT, "narrated-shorts", SERIES, "peel")
 
     if "--auth" in args:
         creds = get_credentials()
@@ -218,20 +262,31 @@ def main():
         return
 
     if "--list" in args:
-        for i, (fid, title) in enumerate(zip(DRIVE_FILE_IDS, TITLES), 1):
-            local = os.path.join(OUTPUT_DIR, f"short-0{i:02d}-*.mp4")
-            import glob
-            matches = glob.glob(local)
-            status = f"локально: {os.path.basename(matches[0])}" if matches else "только Drive"
-            print(f"  {i}. {title}\n     {status}\n     Drive: {fid}")
+        import glob
+        for i, title in enumerate(TITLES, 1):
+            # Find local file (peel or output)
+            matches = []
+            for d in [peel_dir, OUTPUT_DIR]:
+                if os.path.isdir(d):
+                    matches.extend(glob.glob(os.path.join(d, f"short-{i:02d}-*.mp4")))
+            if matches:
+                status = f"локально: {os.path.basename(matches[0])}"
+            elif i <= len(DRIVE_FILE_IDS):
+                status = "только Drive"
+            else:
+                status = "❌ не найдено"
+            drive_info = f"\n     Drive: {DRIVE_FILE_IDS[i-1]}" if i <= len(DRIVE_FILE_IDS) else ""
+            print(f"  {i}. {title}\n     {status}{drive_info}")
         return
 
     # Upload mode
     creds = get_credentials()
     youtube = build_service(creds)
 
+    total_eps = len(TITLES)
+
     if "--upload-all" in args:
-        indices = list(range(5))
+        indices = list(range(total_eps))
     elif "--upload" in args:
         idx = int(args[args.index("--upload") + 1]) - 1
         indices = [idx]
@@ -239,31 +294,60 @@ def main():
         print("Usage: --auth | --upload-all | --upload N | --list", file=sys.stderr)
         return
 
-    tmp_dir = os.path.join(ROOT, "tools", ".tmp_uploads")
-    os.makedirs(tmp_dir, exist_ok=True)
+    # Use local peel videos if available, otherwise download from Drive
 
     for i in indices:
-        print(f"\n=== Эпизод {i + 1}/5 ===", file=sys.stderr)
-        file_id = DRIVE_FILE_IDS[i]
-        local_path = os.path.join(tmp_dir, f"ep{i+1}.mp4")
+        print(f"\n=== Эпизод {i + 1}/{total_eps} ===", file=sys.stderr)
 
-        # Check if already downloaded
-        if not os.path.exists(local_path):
-            download_from_drive(file_id, local_path)
+        # Find local peel video (eps 1-5) or output video (eps 6+)
+        local_path = None
+
+        # Try peel dir first (eps 1-5)
+        for f in os.listdir(peel_dir) if os.path.isdir(peel_dir) else []:
+            if f.startswith(f"short-{i+1:02d}-") and f.endswith("-peel.mp4"):
+                local_path = os.path.join(peel_dir, f)
+                break
+
+        # Try output dir (eps 6+ or fallback)
+        if not local_path:
+            for f in os.listdir(OUTPUT_DIR) if os.path.isdir(OUTPUT_DIR) else []:
+                if f.startswith(f"short-{i+1:02d}-") and f.endswith(".mp4"):
+                    local_path = os.path.join(OUTPUT_DIR, f)
+                    break
+
+        if not local_path:
+            # Fallback: download from Drive (only eps 1-5 have Drive IDs)
+            if i < len(DRIVE_FILE_IDS):
+                file_id = DRIVE_FILE_IDS[i]
+                tmp_dir = os.path.join(ROOT, "tools", ".tmp_uploads")
+                os.makedirs(tmp_dir, exist_ok=True)
+                local_path = os.path.join(tmp_dir, f"ep{i+1}.mp4")
+                if not os.path.exists(local_path):
+                    download_from_drive(file_id, local_path)
+            else:
+                print(f"  ❌ Видео для эпизода {i+1} не найдено!", file=sys.stderr)
+                continue
+
+        # Scheduled publish: Sep 10-17, 2026, 10:00 Almaty (04:00 UTC)
+        schedule_dates = [
+            "2026-09-10", "2026-09-11", "2026-09-12", "2026-09-13", "2026-09-14",
+            "2026-09-15", "2026-09-16", "2026-09-17",
+        ]
+        sched = f"{schedule_dates[i]}T04:00:00Z"
 
         video_id, url = upload_video(
             youtube, local_path,
             title=TITLES[i],
             description=DESCRIPTIONS[i],
             tags=TAGS_LIST[i],
+            scheduled_time=sched,
         )
-        print(f"\n  Эпизод {i+1}: {url}\n")
-        # Small delay between uploads
+        print(f"\n  Эпизод {i+1}: {url}  (запланирован: {schedule_dates[i]})\n")
         if i < max(indices):
             print("  Пауза 5 сек...", file=sys.stderr)
             time.sleep(5)
 
-    print("\n✅ Все эпизоды загружены!", file=sys.stderr)
+    print("\n✅ Все эпизоды загружены и запланированы!", file=sys.stderr)
 
 
 if __name__ == "__main__":

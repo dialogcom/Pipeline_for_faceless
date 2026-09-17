@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 tools/build_narrated_short.py *)",
+      "Bash(python3 tools/gen_image_alibaba.py *)",
+      "Bash(python3 tools/gen_voice_inworld.py *)",
+      "Bash(python3 tools/gen_image.py *)",
+      "Bash(python3 tools/doctor.py *)",
+      "Bash(python3 tools/audit_voice.py *)",
+      "Bash(python3 tools/analyze_voice.py *)",
+      "Bash(python3 tools/voice_metrics.py *)",
+      "Bash(ffmpeg -y *)",
+      "Bash(ffprobe *)",
+      "Bash(cp -r *)",
+      "Bash(cp -v *)",
+      "Bash(mkdir -p *)",
+      "Bash(tools/doctor.py *)",
+      "Read(/Users/Awaikened/Documents/OpenRouterAgent/Pipeline_for_faceless/**)",
+      "Edit(/Users/Awaikened/Documents/OpenRouterAgent/Pipeline_for_faceless/**)",
+      "Write(/Users/Awaikened/Documents/OpenRouterAgent/Pipeline_for_faceless/**)"
+    ]
+  }
+}

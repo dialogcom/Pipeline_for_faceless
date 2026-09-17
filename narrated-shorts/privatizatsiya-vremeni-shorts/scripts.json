@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "slug": "vnimanie-kak-novyi-trud",
+    "hook": "Четыреста лет назад продавали часы работы. Сегодня продают секунды вашего внимания.",
+    "vo": "В четырнадцатом веке, когда в итальянских городах появились первые башенные часы, время стало товаром. Купец мог купить час рабочего времени. Сегодня происходит то же самое - только уже не с часами и минутами труда, а с вниманием и присутствием. Каждый скролл, каждый взгляд, каждая микросекунда, которую вы проводите на экране, - это единица, которую можно измерить, упаковать и продать рекламодателю. Платформы больше не продают контент. Они продают ваше время, превращённое во внимание. Шри Чинмой говорил: выбрать время - значит сберечь время. Мы можем выбрать время, любя время. Но что значит любить время, когда его каждую секунду у вас забирают?",
+    "ending": "Следующий сюжет - о том, почему вы теряете время, даже не замечая этого.",
+    "images": [
+      [
+        "A person scrolling smartphone in dark room, face illuminated by screen light, endless feed reflected in eyes, sense of time slipping away unnoticed, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Ancient merchant's scale with gold coins on one side and hourglass on the other, wooden table surface, warm candlelight, symbol of time as commodity, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of finger swiping on glass screen, motion blur showing speed and repetition, dark background with neon reflections, sense of compulsive action, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person standing in crowded city street looking at phone, everyone around them also looking at phones, sense of collective isolation, golden hour light on buildings, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Выбрать время - значит\nспасти время.\nМы можем выбрать время,\nлюбя время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 2,
+    "slug": "skroll-i-poterya-vremeni",
+    "hook": "Когда вы скроллите, мозг систематически недооценивает прошедшее время. Иногда почти на шестьдесят процентов.",
+    "vo": "Исследования показывают: когда мы скроллим, мозг буквально теряет счёт времени. Вы садитесь на пять минут - встаёте через сорок. Не потому что время ускорилось. Потому что мозг перестал его замечать. Раньше часы учили нас считать минуты. Сейчас алгоритмы учат нас их не замечать - и одновременно их максимально извлекать. Это тихая революция. Никто не объявлял: отныне ваше внимание принадлежит платформам. Появились удобные устройства, бесконечные ленты, уведомления. И постепенно время перестало быть тем, чем вы распоряжаетесь. Оно стало тем, что у вас непрерывно забирают. Шри Чинмой говорил: когда я смотрю внутрь, я экономлю время. Когда я смотрю назад, я трачу время. Но что делать, когда вы не смотрите ни внутрь, ни назад - а только вниз, в экран?",
+    "ending": "Следующий сюжет - о том, что алгоритмы продвигают на самом деле.",
+    "images": [
+      [
+        "Person sitting on couch scrolling phone, clock on wall showing time passing, room getting darker around them, single lamp light on face, sense of time distortion, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Extreme close-up of eye reflecting phone screen, pupil dilated, blue light visible in iris, shallow depth of field, sense of absorption and loss of awareness, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Hourglass with sand flowing upward instead of down, defying gravity, warm golden light from side, sense of time reversal and confusion, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person looking up from phone with confused expression, as if waking from dream, blurred room around them, single shaft of light from window, moment of returning to reality, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Когда я смотрю внутрь,\nя экономлю время.\nКогда я смотрю назад,\nя трачу время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 3,
+    "slug": "algoritmy-protiv-kachestva",
+    "hook": "Алгоритмы не продвигают то, что вам полезно. Они продвигают то, что удерживает вас на секунду дольше.",
+    "vo": "Рандомизированный эксперимент с Twitter показал: алгоритмическая лента усиливает эмоционально заряженный, враждебный контент. Контент, который сами пользователи оценивают как ухудшающий их отношение к политическим оппонентам. Более того, пользователи не предпочитают именно те посты, которые выбирает алгоритм. Система продвигает не то, что людям на самом деле нравится при осознанной оценке, а то, что цепляет рефлекторно. Оптимизация под популярность снижает общее качество контента. Метрики вовлечённости продвигают контент, который соответствует немедленным социальным, аффективным и когнитивным предпочтениям, а не качественный контент или долгосрочные цели. Шри Чинмой говорил: время - это любовь. Если мы любим время, оно даёт нам радость. Но что происходит, когда время превращается в продукт, оптимизированный под рефлексы, а не под любовь?",
+    "ending": "Следующий ролик - о том, почему ложь распространяется в шесть раз быстрее правды.",
+    "images": [
+      [
+        "Computer server room with endless rows of blinking lights, cold blue and green LEDs, sense of algorithmic processing, human figure small in background, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of angry facial expression reflected in phone screen, dramatic lighting, sense of emotional manipulation, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Two people looking at phones, sitting close but not talking, sense of connection through devices but disconnection in person, warm living room lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A maze made of phone screens, person walking through trying to find exit, sense of being trapped in algorithm, overhead view showing complexity, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Время - это любовь.\nЕсли мы любим время,\nтогда время даёт нам\nто, что нам нужно: радость.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 4,
+    "slug": "lozh-v-shest-raz-bystree",
+    "hook": "Ложная информация распространяется в шесть раз быстрее правды. Не потому что люди глупее. А потому что алгоритмы умнее.",
+    "vo": "Исследования показывают: твиты с ссылками на источники с низкой достоверностью показывают значительно лучшие результаты, чем твиты без таких ссылок. А особенно сильно усиливаются высокотоксичные и политически ангажированные посты. Ложная информация распространяется в шесть раз быстрее правды именно потому, что чаще вызывает сильные эмоциональные реакции. Алгоритм не различает правду и ложь. Он различает только одно: удерживает ли это внимание или нет. Гнев удерживает лучше, чем спокойствие. Шок удерживает лучше, чем мудрость. Спор удерживает лучше, чем согласие. Шри Чинмой учил: когда вы смотрите внутрь, вы экономите время. Но что значит смотреть внутрь, когда система снаружи кричит, что смотреть нужно только на неё?",
+    "ending": "Следующий ролик - о парадоксе креаторов: кто говорит не ради денег, зарабатывает меньше.",
+    "images": [
+      [
+        "Viral social media post spreading like wildfire, abstract visualization of sharing networks, warm orange and red tones, sense of rapid uncontrolled spread, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Person reading shocking news on phone, hand covering mouth in surprise, dramatic side lighting, sense of emotional manipulation, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Two opposing crowds shouting at each other, phones raised recording, sense of division and conflict amplified by technology, urban setting with dramatic lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A scale with truth on one side and sensational headline on the other, sensational side weighing down, symbolic representation of algorithmic bias, warm golden light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Когда вы смотрите внутрь,\nвы экономите время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 5,
+    "slug": "paradoks-kreatorov",
+    "hook": "Креаторы, которые говорят не ради денег, зарабатывают в разы меньше тех, кто честно говорит: ради денег.",
+    "vo": "Опросы показывают интересный разрыв. Интервью с креаторами: подавляющее большинство мотивировано возможностью работать над проектами, к которым они испытывают страсть и которые дают им ощущение смысла. На уровне деклараций - не деньги. Но данные о доходах говорят другое: среди всех опрошенных мотиваций финансовая выгода была наименее популярной причиной стать креатором, но именно она давала самый высокий доход со значительным отрывом. Те, кто прямо признаётся, что делает контент ради денег, зарабатывают в разы больше остальных. Это не доказывает цинизм большинства. Но показывает, что рынок вознаграждает именно тех, кто оптимизирует под выгоду, а не под пользу. Шри Чинмой говорил: когда мы живём в душе, нет такой вещи, как смерть. Может быть, когда мы живём в душе, нет такой вещи, как деньги?",
+    "ending": "Следующий ролик - о том, как фитнес-трекеры приватизировали ваше тело.",
+    "images": [
+      [
+        "Content creator filming video in small room, ring light reflecting in eyes, sense of performance and optimization, warm artificial lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of analytics dashboard showing revenue graphs, green numbers going up, sense of financial optimization, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Person sitting at desk surrounded by multiple screens showing different social media platforms, sense of being pulled in many directions, warm lamplight, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person holding a mask in one hand and showing genuine smile with the other, symbol of authentic vs performed self, warm natural light from window, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Когда мы живём в душе,\nнет такой вещи, как смерть.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/dr-23"
+    }
+  },
+  {
+    "id": 6,
+    "slug": "privatizatsiya-tela",
+    "hook": "Часы приватизировали труд. Платформы приватизировали внимание. Сенсоры приватизировали тело.",
+    "vo": "Фитнес-трекер превращает ваш сон в график, который можно продать страховой компании. Ваш пульс, шаги, паттерны сна - то, что раньше было просто быть живым, - стало собственностью в виде данных. Каждый шаг считается. Каждый удар сердца регистрируется. Каждая ночь анализируется. То, что когда-то было естественным ритмом жизни, стало измеримым, дробимым, продаваемым ресурсом. Это тот же ход, что и с часами, и с вниманием: непрерывное, ничьё разбивается на дискретные единицы, и как только оно измеримо - оно продаваемо. Шри Чинмой говорил: земное время измеряет все наши действия и само может быть измерено. Но душа использует безграничное время. Что остаётся от души, когда даже её ритмы становятся данными?",
+    "ending": "Следующий ролик - о колоколах и push-уведомлениях.",
+    "images": [
+      [
+        "Close-up of fitness tracker on wrist showing heart rate and steps, skin texture visible, sense of constant monitoring, warm natural light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Person sleeping with multiple sensors attached, wires connecting to monitoring equipment, sense of body as data source, dim blue medical lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Abstract visualization of human body made of data points and graphs, warm golden light flowing through digital form, sense of body becoming information, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person running with fitness tracker glowing, city blurred in background, sense of natural movement being measured and optimized, golden hour light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Земное время измеряет\nвсе наши действия\nи само может быть измерено.\nНо душа использует безграничное время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "kolokola-i-push-uvedomleniya",
+    "hook": "Церковные колокола отмечали часы молитвы. Push-уведомления отмечают часы потребления.",
+    "vo": "Разница та же, что между колоколом и башенными часами: раньше время было природным ритмом, теперь - измеримым, дробимым, продаваемым ресурсом. Колокола звали к молитве - к моменту остановки, возвращения к центру, встречи с вечностью внутри временного. Push-уведомления зовут к потреблению - к моменту отвлечения, выхода из себя, встречи с бесконечной лентой. Первые создавали ритм. Вторые создают непрерывность. Первые освобождали время для души. Вторые забирают время у души. Шри Чинмой говорил: каждый момент - это вечность, сжатая до точки. Колокола помогали увидеть эту точку. Уведомления помогают её не заметить.",
+    "ending": "Следующий ролик - о том, насколько этот обмен действительно добровольный.",
+    "images": [
+      [
+        "Ancient church bell tower at dawn, massive bronze bell silhouetted against orange sky, sense of sacred time and calling to prayer, warm golden light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Close-up of smartphone screen with multiple push notifications, bright colorful alerts, sense of constant interruption and demand for attention, shallow depth of field, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Person in meditation pose with phone buzzing nearby, conflict between inner peace and external demands, warm natural light from window, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Split composition: left side shows monk listening to bell, right side shows person checking phone, same golden light connecting both moments, sense of parallel rituals, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Каждый момент - это вечность,\nсжатая до точки.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/dr-23"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "dobrovolnoe-rabstvo",
+    "hook": "Есть контраргумент: это не приватизация, а просто более точный обмен. Люди добровольно меняют внимание на бесплатный контент.",
+    "vo": "Как раньше меняли труд на зарплату. Вопрос в том, насколько этот обмен действительно добровольный, если система специально сконструирована так, чтобы его нельзя было заметить. Никто не подписывал документ отныне внимание - товар. Просто в какой-то момент оказалось, что ваше утреннее пролистывание ленты - это чей-то актив. Раньше купец мог купить час рабочего. Сегодня алгоритм может купить тысячу микромоментов вашего сознания в течение дня. Это и есть нынешняя революция: время перестало быть просто мерой труда и стало сырьём для экономики внимания. Шри Чинмой сказал простую вещь: выбрать время - значит спасти время. Мы можем выбрать время, любя время. Но как любить то, что у вас непрерывно забирают, пока вы не замечаете?",
+    "ending": "Серия завершена. Но революция - нет.",
+    "images": [
+      [
+        "Person signing invisible contract with shadowy figure, symbol of unconscious agreement, dramatic lighting from above, sense of hidden transaction, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Abstract visualization of attention being extracted like resource, golden particles flowing from person to machine, sense of invisible harvesting, warm amber light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "Person standing at crossroads, one path leading to natural light, other to glowing screens, moment of conscious choice, warm golden hour lighting, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ],
+      [
+        "A person looking directly at camera with knowing expression, breaking fourth wall, sense of awakening and recognition, warm natural light, authentic archival photograph, 35mm film grain, warm golden light",
+        0.25
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic archival photograph, 35mm film grain, warm golden light, slight atmospheric haze, contemplative mood, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Выбрать время - значит\nспасти время.\nМы можем выбрать время,\nлюбя время.",
+      "source": "Шри Чинмой",
+      "url": "https://www.srichinmoylibrary.com/EL-33"
+    }
+  }
+]

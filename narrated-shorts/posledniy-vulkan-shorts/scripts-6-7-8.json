@@ -1,0 +1,122 @@
+[
+  {
+    "id": 6,
+    "slug": "golos-kotoryy-ne-poslushali",
+    "hook": "В три часа дня человек, которому за это платили, прямо сказал Хансену: разворачивайся. Хансен не развернулся.",
+    "vo": "Шерпа Анг Дордже шёл в связке с клиентами Холла и видел одно: время. Два часа он уже молчал и ждал. В три он догнал Хансена на склоне и сказал вслух то, что должен был сказать. Разворачивайся. Ему за это платят. За то, чтобы говорить это вслух. Хансен посмотрел на него и пошёл дальше вверх. Его догнал сам Холл, они коротко поговорили, и Хансен снова встал в цепочку. Анг Дордже развернулся и пошёл вниз. Он выжил.",
+    "ending": "Голос, который слышен, но не слушается — это не тишина. Это самый громкий звук, какой вообще бывает на горе. Почему правильный голос ничего не меняет? Об этом в следующей серии.",
+    "images": [
+      [
+        "A Sherpa climber in a weathered down suit standing on a steep snow slope, one arm raised pointing back downhill, face half-hidden by mask and wind, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Two climbers facing each other on a narrow ridge, one gesturing downward and the other looking past him upward toward the summit, tense body language, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A single line of footprints in snow continuing upward past the point where another set turns back, seen from above, flat cold light, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A Sherpa descending alone down a vast empty snow slope, the summit far above him, wind pluming off his shoulders, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Когда ученик не слышит\nучителя,\nучитель не исчезает —\nученик уходит.",
+      "source": "Шри Чинмой",
+      "url": "https://ru.srichinmoylibrary.com/ffb-77"
+    }
+  },
+  {
+    "id": 7,
+    "slug": "zerkalo-na-drugoy-storone",
+    "hook": "На другой стороне горы стоял человек, который делал всё то же самое. Только у него не было клиента, которого он должен был вести.",
+    "vo": "Скотт Фишер водил свою группу — американскую фирму «Маунтин мэднесс». Как и Холл, он славился тем, что клиенты возвращаются. Как и Холл, он вышел на вершину поздно. Как и Холл, он не развернулся вовремя. Но было одно отличие: рядом с Фишером наверху не было никого, за кого он отвечал. Он был один. И именно поэтому он не смог спуститься.",
+    "ending": "Холл остался с Хансеном до конца. Фишер остался один до конца. Два зеркала, два гида, одна ночь. Что в них общего, кроме горы? Об этом в следующей серии.",
+    "images": [
+      [
+        "A lone climber in a red down suit standing on a summit ridge at dusk, seen from behind, the opposite face of the mountain falling away below him, vast empty sky, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Two separate expedition camps on opposite sides of a mountain, small yellow tents on snow, seen from high above, symmetrical composition, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A single climber descending alone into gathering darkness on a vast snow face, no other figures anywhere, storm cloud building above, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "Two sets of bootprints in snow converging at the same summit point, seen from above, flat cold light, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Тот, кто ведёт других,\nзабывает вести себя.",
+      "source": "Шри Чинмой",
+      "url": "https://ru.srichinmoylibrary.com/ffb-77"
+    }
+  },
+  {
+    "id": 8,
+    "slug": "tot-kto-poshyob-obratno",
+    "hook": "Когда в лагере узнали, что люди в беде, один человек встал и пошёл обратно в бурю. Он спас троих. Обратно он не вернулся.",
+    "vo": "Анатолий Букреев шёл на вершину без кислорода. Он вышел первым и спустился первым. В Лагере Четыре он уже отдыхал, когда понял: наверху остались люди. Он встал и пошёл обратно. В бурю. Без кислорода. Без связки. Нашёл троих и вывел их. Маклуглина. Хатчинсона. Фокс. Сам Букреев не дошёл до лагеря. Его нашли утром, в нескольких шагах от палатки.",
+    "ending": "Правило говорит: останься в живых. Сердце говорит: иди обратно. Что делать, когда два голоса расходятся? И кто из них тогда настоящий — тот, кто слушает правило, или тот, кто слушает сердце?",
+    "images": [
+      [
+        "A lone climber in a down suit walking away from a small cluster of yellow tents into a white-out blizzard, seen from behind, everything dissolving into snow and wind, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "A climber moving through dense blowing snow at night, headlamp cutting a narrow cone of light, visibility near zero, tall vertical frame, vertical 9:16 composition",
+        0.26
+      ],
+      [
+        "Three climbers huddled together on snow being supported by a fourth figure, storm raging around them, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ],
+      [
+        "A single figure lying still in wind-packed snow a few metres from the edge of a lit yellow tent, seen from above, dawn light breaking through storm, tall vertical frame, vertical 9:16 composition",
+        0.24
+      ]
+    ],
+    "voice": {
+      "voice_id": "Nikolai",
+      "model": "inworld-tts-1.5-max",
+      "temperature": 1.1,
+      "speaking_rate": 1.0
+    },
+    "image_provider": "alibaba",
+    "image_model": "wan2.7-image",
+    "image_style": ", authentic 1990s high-altitude expedition photograph, 35mm Kodachrome film grain, cold blue thin-air light, slight atmospheric haze, unposed documentary framing, full-bleed image filling the whole frame",
+    "image_negative": "modern digital render, CGI, 3d render, HDR, oversaturated colours, drone shot, text, watermark, logo, letterbox, white border, recognisable face, portrait likeness",
+    "aphorism": {
+      "text": "Сострадание — это когда\nты идёшь обратно\nв бурю,\nиз которой сам едва вышел.",
+      "source": "Шри Чинмой",
+      "url": "https://ru.srichinmoylibrary.com/ffb-77"
+    }
+  }
+]
